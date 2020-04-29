@@ -26,22 +26,47 @@ showfile.gds(closeall = TRUE)
 
 # Data input 
 
+Dir <- "~/pf3k_png"  
+# Create output directoy
 
-pf3kv5 <- seqOpen("filepath/WGS_GATK_Processed_and_SNPeff_annotated_file.gds", readonly = TRUE)
+if(!dir.exists(Dir)) dir.create(Dir, recursive=T)
+setwd(Dir)
+#add all necessary files into created folder. therefore, you will need
+#1. WGS_GATK_Processed_and_SNPeff_annotated_file.gds
+#2. metadata_with_sample_ID.txt (see example)
+#3. antigen_list.txt (see example)
+#4. pf3kv5_functional_annotations_filtered.rds (functional annotated)
+#5. pf3kv5_gatk_metrics.rds (hard filtered)
+#6. pf3kv5_fws.rds (moimix output)
+#7. Reference sequence inside a seperate folder such as Ref 
+
+
+# set output file path
+outputDir_1 = "vcf"
+if(!dir.exists(outputDir_1)) dir.create(outputDir_1, recursive=T)
+
+outputDir_2 = "fasta"
+if(!dir.exists(outputDir_2)) dir.create(outputDir_2, recursive=T)
+
+outputDir_3 = "pedmap"
+if(!dir.exists(outputDir_3)) dir.create(outputDir_3, recursive=T)
+
+
+pf3kv5 <- seqOpen("WGS_GATK_Processed_and_SNPeff_annotated_file.gds", readonly = TRUE)
 
 # geographic metadata
-metadata <- read.delim("filepath/metadata_with_sample_ID.txt",
+metadata <- read.delim("metadata_with_sample_ID.txt",
                        header=TRUE, stringsAsFactors=FALSE, na.strings=c(""))
 rownames(metadata) <- metadata$sample
 
 # target antigens
-antigens <- read.delim("filepath/antigen_list.txt", header=TRUE, stringsAsFactors=FALSE)
+antigens <- read.delim("antigen_list.txt", header=TRUE, stringsAsFactors=FALSE)
 rownames(antigens) <- antigens$Gene.ID
 
 # functional annotations for varaints passing GATK VQSR + further hard-filtering
 # based on GATK parameters and missingness
-func_annotations <- readr::read_rds("filepath/pf3kv5_functional_annotations_filtered.rds")
-gatk_annotations <- readr::read_rds("filepath/pf3kv5_gatk_metrics.rds")
+func_annotations <- readr::read_rds("pf3kv5_functional_annotations_filtered.rds")
+gatk_annotations <- readr::read_rds("pf3kv5_gatk_metrics.rds")
 
 # hard_filtered <- func_annotations %>% select(chr, pos) %>% distinct %>% arrange(chr, pos)
 # write.table(hard_filtered, "pf3k5_hard_filtered_loci.txt", col.names = FALSE, row.names=FALSE, sep="\t", quote=FALSE)
@@ -52,7 +77,7 @@ gatk_annotations <- readr::read_rds("filepath/pf3kv5_gatk_metrics.rds")
 # MOI 1 = fws>0.90
 # MOI 2 = fws<=0.90 & moi$fws>0.80
 
-moi <- readr::read_rds("path/moimix_output/pf3kv5_fws.rds")
+moi <- readr::read_rds("pf3kv5_fws.rds")
 moi1_samples <- moi$sample.id[moi$fws>0.90]
 moi2_samples <- moi$sample.id[moi$fws<=0.90 & moi$fws>0.80] 
 keep_samples <- moi$sample.id[!is.na(moi$moi)]
@@ -305,7 +330,7 @@ for (gene in antigens$Gene.ID) {
   cat("  \n")
 
   # write data to a vcf file
-  seqGDS2VCF(pf3kv5, paste0("filepath/vcf/", gene, "_coding.vcf"),
+  seqGDS2VCF(pf3kv5, paste0("vcf/", gene, "_coding.vcf"),
              fmt.var=c("AD", "DP", "GQ", "PL", "RGQ", "SB"))
   
   # extract haplotypes for samples with MOI 1
@@ -316,9 +341,9 @@ for (gene in antigens$Gene.ID) {
   moi2_seqs <- moi2_sequences(gene_var$variant_id, as.character(moi2_samples), moi2_haps, MINOR_PROP_THRESH)
   
   # extract reference coding sequence for gene from fasta file
-  cds_seq <- read.dna(paste0("filepath/cds_fasta", gene, ".1.fasta"), format="fasta") %>% as.character %>% as.vector %>% toupper
+  cds_seq <- read.dna(paste0("ref", gene, ".1.fasta"), format="fasta") %>% as.character %>% as.vector %>% toupper
   # generate a fasta file containing coding sequences for each clone 
-  generate_fasta(cds_seq, gene_var$pos_CDS, moi1_haps, moi2_seqs, paste0("filepath/fasta_file_output/", gene, "_CDS.fasta"), antigens[gene, ]$dir)
+  generate_fasta(cds_seq, gene_var$pos_CDS, moi1_haps, moi2_seqs, paste0("fasta/", gene, "_CDS.fasta"), antigens[gene, ]$dir)
 
 
   # keep track of clonal proportions for samples with MOI 2
@@ -330,7 +355,7 @@ for (gene in antigens$Gene.ID) {
   
   # generate a pedmap file if there are more than 10 variants across the gene
   if (nrow(gene_var)>10) {
-      generate_pedmap(gene_var, moi1_haps, moi2_haps, metadata, paste0("filepath/pedmap/", gene, "_coding.ped"), paste0("filepath/pedmap/", gene, "_coding.map"))
+      generate_pedmap(gene_var, moi1_haps, moi2_haps, metadata, paste0("pedmap/", gene, "_coding.ped"), paste0("pedmap/", gene, "_coding.map"))
   }
   
   seqResetFilter(pf3kv5)

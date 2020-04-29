@@ -1,0 +1,5579 @@
+sample	country	site
+
+7G8		
+
+ERS740936		
+
+ERS740937		
+
+ERS740940		
+
+GB4		
+
+PA0007-C	TheGambia	GM_Coastal
+
+PA0008-C	TheGambia	GM_Coastal
+
+PA0011-C	TheGambia	GM_Coastal
+
+PA0012-C	TheGambia	GM_Coastal
+
+PA0015-C	TheGambia	GM_Coastal
+
+PA0016-C	TheGambia	GM_Coastal
+
+PA0017-C	TheGambia	GM_Coastal
+
+PA0018-C	TheGambia	GM_Coastal
+
+PA0020-C	TheGambia	GM_Coastal
+
+PA0021-C	TheGambia	GM_Coastal
+
+PA0022-C	TheGambia	GM_Coastal
+
+PA0026-C	TheGambia	GM_Coastal
+
+PA0027-C	TheGambia	GM_Coastal
+
+PA0029-C	TheGambia	GM_Coastal
+
+PA0030-C	TheGambia	GM_Coastal
+
+PA0032-C	TheGambia	GM_Coastal
+
+PA0034-C	TheGambia	GM_Coastal
+
+PA0035-C	TheGambia	GM_Coastal
+
+PA0036-C	TheGambia	GM_Coastal
+
+PA0037-C	TheGambia	GM_Coastal
+
+PA0038-C	TheGambia	GM_Coastal
+
+PA0039-C	TheGambia	GM_Coastal
+
+PA0040-C	TheGambia	GM_Coastal
+
+PA0041-C	TheGambia	GM_Coastal
+
+PA0042-C	TheGambia	GM_Coastal
+
+PA0044-C	TheGambia	GM_Coastal
+
+PA0045-C	TheGambia	GM_Coastal
+
+PA0046-C	TheGambia	GM_Coastal
+
+PA0047-C	TheGambia	GM_Coastal
+
+PA0049-C	TheGambia	GM_Coastal
+
+PA0050-C	TheGambia	GM_Coastal
+
+PA0051-C	TheGambia	GM_Coastal
+
+PA0052-C	TheGambia	GM_Coastal
+
+PA0053-C	TheGambia	GM_Coastal
+
+PA0054-C	TheGambia	GM_Coastal
+
+PA0056-C	TheGambia	GM_Coastal
+
+PA0057-C	TheGambia	GM_Coastal
+
+PA0059-C	TheGambia	GM_Coastal
+
+PA0061-C	TheGambia	GM_Coastal
+
+PA0064-C	TheGambia	GM_Coastal
+
+PA0065-C	TheGambia	GM_Coastal
+
+PA0067-C	TheGambia	GM_Coastal
+
+PA0068-C	TheGambia	GM_Coastal
+
+PA0069-C	TheGambia	GM_Coastal
+
+PA0071-C	TheGambia	GM_Coastal
+
+PA0073-C	TheGambia	GM_Coastal
+
+PA0074-C	TheGambia	GM_Coastal
+
+PA0075-C	TheGambia	GM_Coastal
+
+PA0078-C	TheGambia	GM_Coastal
+
+PA0079-C	TheGambia	GM_Coastal
+
+PA0081-C	TheGambia	GM_Coastal
+
+PA0084-C	TheGambia	GM_Coastal
+
+PA0085-C	TheGambia	GM_Coastal
+
+PA0087-C	TheGambia	GM_Coastal
+
+PA0089-C	TheGambia	GM_Coastal
+
+PA0091-C	TheGambia	GM_Coastal
+
+PA0092-C	TheGambia	GM_Coastal
+
+PA0093-C	TheGambia	GM_Coastal
+
+PA0094-C	TheGambia	GM_Coastal
+
+PA0098-C	TheGambia	GM_Coastal
+
+PA0099-C	TheGambia	GM_Coastal
+
+PA0100-C	TheGambia	GM_Coastal
+
+PA0101-C	TheGambia	GM_Coastal
+
+PA0102-C	TheGambia	GM_Coastal
+
+PA0104-C	TheGambia	GM_Coastal
+
+PA0134-C	Guinea	Nzerekore
+
+PA0137-C	Guinea	Nzerekore
+
+PA0138-C	Guinea	Nzerekore
+
+PA0140-C	Guinea	Nzerekore
+
+PA0144-C	Guinea	Nzerekore
+
+PA0145-C	Guinea	Nzerekore
+
+PA0146-C	Guinea	Nzerekore
+
+PA0147-C	Guinea	Nzerekore
+
+PA0148-C	Guinea	Nzerekore
+
+PA0149-C	Guinea	Nzerekore
+
+PA0151-C	Guinea	Nzerekore
+
+PA0152-C	Guinea	Nzerekore
+
+PA0153-C	Guinea	Nzerekore
+
+PA0155-C	Guinea	Nzerekore
+
+PA0157-C	Guinea	Nzerekore
+
+PA0158-C	Guinea	Nzerekore
+
+PA0159-C	Guinea	Nzerekore
+
+PA0160-C	Guinea	Nzerekore
+
+PA0161-C	Guinea	Nzerekore
+
+PA0163-C	Guinea	Nzerekore
+
+PA0165-C	Guinea	Nzerekore
+
+PA0167-C	Guinea	Nzerekore
+
+PA0168-C	Guinea	Nzerekore
+
+PA0169-C	Guinea	Nzerekore
+
+PA0171-C	Guinea	Nzerekore
+
+PA0172-C	Guinea	Nzerekore
+
+PA0173-C	Guinea	Nzerekore
+
+PA0176-C	Guinea	Nzerekore
+
+PA0177-C	Guinea	Nzerekore
+
+PA0178-C	Guinea	Nzerekore
+
+PA0179-C	Guinea	Nzerekore
+
+PA0180-C	Guinea	Nzerekore
+
+PA0182-C	Guinea	Nzerekore
+
+PA0183-C	Guinea	Nzerekore
+
+PA0184-C	Guinea	Nzerekore
+
+PA0185-C	Guinea	Nzerekore
+
+PA0186-C	Guinea	Nzerekore
+
+PA0187-C	Guinea	Nzerekore
+
+PA0188-C	Guinea	Nzerekore
+
+PA0189-C	Guinea	Nzerekore
+
+PA0190-C	Guinea	Nzerekore
+
+PA0191-C	Guinea	Nzerekore
+
+PA0193-C	Guinea	Nzerekore
+
+PA0195-C	Guinea	Nzerekore
+
+PA0197-C	Guinea	Nzerekore
+
+PA0198-C	Guinea	Nzerekore
+
+PA0199-C	Guinea	Nzerekore
+
+PA0200-C	Guinea	Nzerekore
+
+PA0201-C	Guinea	Nzerekore
+
+PA0202-C	Guinea	Nzerekore
+
+PA0203-C	Guinea	Nzerekore
+
+PA0204-C	Guinea	Nzerekore
+
+PA0205-C	Guinea	Nzerekore
+
+PA0206-C	Guinea	Nzerekore
+
+PA0207-C	Guinea	Nzerekore
+
+PA0208-C	Guinea	Nzerekore
+
+PA0209-C	Guinea	Nzerekore
+
+PA0210-C	Guinea	Nzerekore
+
+PA0211-C	Guinea	Nzerekore
+
+PA0212-C	Guinea	Nzerekore
+
+PA0213-C	Guinea	Nzerekore
+
+PA0214-C	Guinea	Nzerekore
+
+PA0215-C	Guinea	Nzerekore
+
+PA0216-C	Guinea	Nzerekore
+
+PA0217-C	Guinea	Nzerekore
+
+PA0218-C	Guinea	Nzerekore
+
+PA0219-C	Guinea	Nzerekore
+
+PA0220-C	Guinea	Nzerekore
+
+PA0221-C	Guinea	Nzerekore
+
+PA0222-C	Guinea	Nzerekore
+
+PA0223-C	Guinea	Nzerekore
+
+PA0224-C	Guinea	Nzerekore
+
+PA0225-C	Guinea	Nzerekore
+
+PA0227-C	Guinea	Nzerekore
+
+PA0228-C	Guinea	Nzerekore
+
+PA0229-C	Guinea	Nzerekore
+
+PA0230-C	Guinea	Nzerekore
+
+PA0231-C	Guinea	Nzerekore
+
+PA0232-C	Guinea	Nzerekore
+
+PA0233-C	Guinea	Nzerekore
+
+PA0234-C	Guinea	Nzerekore
+
+PA0237-C	Guinea	Nzerekore
+
+PA0239-C	Guinea	Nzerekore
+
+PA0243-C	Guinea	Nzerekore
+
+PA0245-C	Guinea	Nzerekore
+
+PA0246-C	Guinea	Nzerekore
+
+PA0249-C	Guinea	Nzerekore
+
+PA0251-C	Guinea	Nzerekore
+
+PA0253-C	Guinea	Nzerekore
+
+PA0254-C	Guinea	Nzerekore
+
+PA0255-C	Guinea	Nzerekore
+
+PA0256-C	Guinea	Nzerekore
+
+PA0257-C	Guinea	Nzerekore
+
+PA0260-C	Guinea	Nzerekore
+
+PA0261-C	Guinea	Nzerekore
+
+PA0262-C	Guinea	Nzerekore
+
+PA0263-C	Guinea	Nzerekore
+
+PA0267-C	Guinea	Nzerekore
+
+PA0269-C	Guinea	Nzerekore
+
+PA0270-C	Guinea	Nzerekore
+
+PD0459-Cx	Thailand	MaeSot
+
+PD0460-C	Thailand	MaeSot
+
+PD0461-C	Thailand	MaeSot
+
+PD0462-C	Thailand	MaeSot
+
+PD0464-C	Thailand	MaeSot
+
+PD0466-C	Thailand	MaeSot
+
+PD0467-C	Thailand	MaeSot
+
+PD0468-C	Thailand	MaeSot
+
+PD0469-C	Thailand	MaeSot
+
+PD0470-C	Thailand	MaeSot
+
+PD0471-C	Thailand	MaeSot
+
+PD0472-C	Thailand	MaeSot
+
+PD0473-C	Thailand	MaeSot
+
+PD0474-C	Thailand	MaeSot
+
+PD0475-C	Thailand	MaeSot
+
+PD0476-C	Thailand	MaeSot
+
+PD0477-C	Thailand	MaeSot
+
+PD0478-C	Thailand	MaeSot
+
+PD0479-C	Thailand	MaeSot
+
+PD0480-C	Thailand	MaeSot
+
+PD0481-C	Thailand	MaeSot
+
+PD0482-C	Thailand	MaeSot
+
+PD0483-C	Thailand	MaeSot
+
+PD0484-C	Thailand	MaeSot
+
+PD0485-C	Thailand	MaeSot
+
+PD0487-C	Thailand	MaeSot
+
+PD0488-C	Thailand	MaeSot
+
+PD0489-C	Thailand	MaeSot
+
+PD0490-C	Thailand	MaeSot
+
+PD0491-C	Thailand	MaeSot
+
+PD0492-C	Thailand	MaeSot
+
+PD0493-C	Thailand	MaeSot
+
+PD0494-C	Thailand	MaeSot
+
+PD0495-C	Thailand	MaeSot
+
+PD0496-C	Thailand	MaeSot
+
+PD0497-C	Thailand	MaeSot
+
+PD0498-C	Thailand	Sisakhet
+
+PD0499-C	Thailand	Sisakhet
+
+PD0500-C	Thailand	Sisakhet
+
+PD0501-C	Thailand	Sisakhet
+
+PD0502-C	Thailand	Sisakhet
+
+PD0503-C	Thailand	Ranong
+
+PD0504-C	Thailand	Ranong
+
+PD0505-C	Thailand	Ranong
+
+PD0506-C	Thailand	Ranong
+
+PD0507-C	Thailand	Ranong
+
+PD0508-C	Thailand	Ranong
+
+PD0509-Cx2	Thailand	Ranong
+
+PD0510-C	Thailand	Ranong
+
+PD0511-C	Thailand	MaeSot
+
+PD0512-C	Thailand	MaeSot
+
+PD0513-C	Thailand	MaeSot
+
+PD0514-C	Thailand	MaeSot
+
+PD0515-C	Thailand	MaeSot
+
+PD0516-C	Thailand	MaeSot
+
+PD0517-C	Thailand	MaeSot
+
+PD0518-C	Thailand	MaeSot
+
+PD0519-C	Thailand	MaeSot
+
+PD0520-C	Thailand	MaeSot
+
+PD0521-C	Thailand	MaeSot
+
+PD0522-C	Thailand	MaeSot
+
+PD0523-C	Thailand	MaeSot
+
+PD0524-C	Thailand	MaeSot
+
+PD0525-C	Thailand	MaeSot
+
+PD0526-C	Thailand	MaeSot
+
+PD0527-C	Thailand	MaeSot
+
+PD0528-C	Thailand	MaeSot
+
+PD0529-C	Thailand	MaeSot
+
+PD0530-C	Thailand	MaeSot
+
+PD0531-C	Thailand	MaeSot
+
+PD0532-C	Thailand	MaeSot
+
+PD0533-C	Thailand	MaeSot
+
+PD0534-C	Thailand	MaeSot
+
+PD0535-C	Thailand	MaeSot
+
+PD0536-C	Thailand	MaeSot
+
+PD0537-C	Thailand	MaeSot
+
+PD0538-C	Thailand	MaeSot
+
+PD0539-C	Thailand	MaeSot
+
+PD0540-C	Thailand	MaeSot
+
+PD0541-C	Thailand	MaeSot
+
+PD0543-C	Thailand	MaeSot
+
+PD0544-C	Thailand	MaeSot
+
+PD0545-C	Thailand	MaeSot
+
+PD0546-C	Thailand	MaeSot
+
+PD0547-C	Thailand	MaeSot
+
+PD0548-C	Thailand	MaeSot
+
+PD0549-C	Thailand	MaeSot
+
+PD0550-C	Thailand	MaeSot
+
+PD0552-C	Thailand	MaeSot
+
+PD0553-C	Thailand	MaeSot
+
+PD0554-C	Thailand	MaeSot
+
+PD0555-C	Thailand	MaeSot
+
+PD0556-C	Thailand	MaeSot
+
+PD0557-C	Thailand	MaeSot
+
+PD0558-C	Thailand	MaeSot
+
+PD0559-C	Thailand	MaeSot
+
+PD0561-C	Thailand	MaeSot
+
+PD0562-C	Thailand	MaeSot
+
+PD0563-C	Thailand	MaeSot
+
+PD0564-C	Thailand	MaeSot
+
+PD0565-C	Thailand	MaeSot
+
+PD0566-C	Thailand	MaeSot
+
+PD0567-C	Thailand	MaeSot
+
+PD0569-C	Thailand	MaeSot
+
+PD0570-C	Thailand	MaeSot
+
+PD0571-C	Thailand	MaeSot
+
+PD0572-C	Thailand	MaeSot
+
+PD0573-C	Thailand	MaeSot
+
+PD0574-C	Thailand	MaeSot
+
+PD0575-C	Thailand	Sisakhet
+
+PD0576-C	Thailand	Sisakhet
+
+PD0577-C	Thailand	Sisakhet
+
+PD0578-C	Thailand	Sisakhet
+
+PD0579-C	Thailand	Sisakhet
+
+PD0580-C	Thailand	Sisakhet
+
+PD0581-C	Thailand	Ranong
+
+PD0582-C	Thailand	Ranong
+
+PD0583-C	Thailand	Ranong
+
+PD0584-C	Thailand	Ranong
+
+PD0585-C	Thailand	Ranong
+
+PD0586-C	Thailand	Ranong
+
+PD0587-C	Thailand	Ranong
+
+PD0589-C	Thailand	Ranong
+
+PD0590-C	Thailand	Ranong
+
+PD0591-C	Thailand	Ranong
+
+PD0592-C	Thailand	Ranong
+
+PD0626-C	Thailand	MaeSot
+
+PD0627-C	Thailand	MaeSot
+
+PD0629-C	Thailand	MaeSot
+
+PD0630-C	Thailand	MaeSot
+
+PD0632-C	Thailand	MaeSot
+
+PD0635-C	Thailand	MaeSot
+
+PD0636-C	Thailand	MaeSot
+
+PD0637-C	Thailand	MaeSot
+
+PD0638-C	Thailand	MaeSot
+
+PD0640-C	Thailand	MaeSot
+
+PD0648-C	Thailand	Ranong
+
+PD0651-C	Thailand	Sisakhet
+
+PD0658-C	Thailand	Sisakhet
+
+PD0659-C	Thailand	Sisakhet
+
+PD0660-C	Thailand	Sisakhet
+
+PD0662-C	Thailand	Sisakhet
+
+PD0663-C	Thailand	Sisakhet
+
+PD0664-C	Thailand	Sisakhet
+
+PD0665-C	Thailand	Sisakhet
+
+PD0667-C	Thailand	Sisakhet
+
+PD0668-C	Thailand	Sisakhet
+
+PD0670-C	Thailand	Sisakhet
+
+PF0004-C	Ghana	Kassena
+
+PF0006-C	Ghana	Kassena
+
+PF0007-C	Ghana	Kassena
+
+PF0008-C	Ghana	Kassena
+
+PF0009-C	Ghana	Kassena
+
+PF0010-C	Ghana	Kassena
+
+PF0011-C	Ghana	Kassena
+
+PF0012-C	Ghana	Kassena
+
+PF0016-C	Ghana	Kassena
+
+PF0020-C	Ghana	Kassena
+
+PF0021-C	Ghana	Kassena
+
+PF0022-C	Ghana	Kassena
+
+PF0024-C	Ghana	Kassena
+
+PF0025-C	Ghana	Kassena
+
+PF0026-C	Ghana	Kassena
+
+PF0027-C	Ghana	Kassena
+
+PF0028-C	Ghana	Kassena
+
+PF0029-C	Ghana	Kassena
+
+PF0030-C	Ghana	Kassena
+
+PF0031-C	Ghana	Kassena
+
+PF0032-C	Ghana	Kassena
+
+PF0033-C	Ghana	Kassena
+
+PF0035-C	Ghana	Kassena
+
+PF0036-C	Ghana	Kassena
+
+PF0037-C	Ghana	Kassena
+
+PF0038-C	Ghana	Kassena
+
+PF0039-C	Ghana	Kassena
+
+PF0040-C	Ghana	Kassena
+
+PF0041-C	Ghana	Kassena
+
+PF0042-C	Ghana	Kassena
+
+PF0043-C	Ghana	Kassena
+
+PF0044-C	Ghana	Kassena
+
+PF0045-C	Ghana	Kassena
+
+PF0046-C	Ghana	Kassena
+
+PF0047-C	Ghana	Kassena
+
+PF0048-C	Ghana	Kassena
+
+PF0049-C	Ghana	Kassena
+
+PF0050-C	Ghana	Kassena
+
+PF0051-C	Ghana	Kassena
+
+PF0052-C	Ghana	Kassena
+
+PF0053-C	Ghana	Kassena
+
+PF0054-C	Ghana	Kassena
+
+PF0055-C	Ghana	Kassena
+
+PF0057-C	Ghana	Kassena
+
+PF0058-C	Ghana	Kassena
+
+PF0062-C	Ghana	Kassena
+
+PF0063-C	Ghana	Kassena
+
+PF0064-C	Ghana	Kassena
+
+PF0065-C	Ghana	Kassena
+
+PF0066-C	Ghana	Kassena
+
+PF0069-C	Ghana	Kassena
+
+PF0073-C	Ghana	Kassena
+
+PF0074-C	Ghana	Kassena
+
+PF0075-C	Ghana	Kassena
+
+PF0077-C	Ghana	Kassena
+
+PF0078-C	Ghana	Kassena
+
+PF0079-C	Ghana	Kassena
+
+PF0080-C	Ghana	Kassena
+
+PF0081-C	Ghana	Kassena
+
+PF0084-C	Ghana	Kassena
+
+PF0085-C	Ghana	Kassena
+
+PF0089-C	Ghana	Kassena
+
+PF0090-C	Ghana	Kassena
+
+PF0092-C	Ghana	Kassena
+
+PF0095-C	Ghana	Kassena
+
+PF0096-C	Ghana	Kassena
+
+PF0097-C	Ghana	Kassena
+
+PF0098-C	Ghana	Kassena
+
+PF0099-C	Ghana	Kassena
+
+PF0100-C	Ghana	Kassena
+
+PF0101-C	Ghana	Kassena
+
+PF0102-C	Ghana	Kassena
+
+PF0103-C	Ghana	Kassena
+
+PF0104-C	Ghana	Kassena
+
+PF0105-C	Ghana	Kassena
+
+PF0106-C	Ghana	Kassena
+
+PF0107-C	Ghana	Kassena
+
+PF0108-C	Ghana	Kassena
+
+PF0109-C	Ghana	Kassena
+
+PF0111-C	Ghana	Kassena
+
+PF0112-C	Ghana	Kassena
+
+PF0113-C	Ghana	Kassena
+
+PF0114-C	Ghana	Kassena
+
+PF0115-C	Ghana	Kassena
+
+PF0116-C	Ghana	Kassena
+
+PF0117-C	Ghana	Kassena
+
+PF0118-C	Ghana	Kassena
+
+PF0119-C	Ghana	Kassena
+
+PF0121-C	Ghana	Kassena
+
+PF0122-C	Ghana	Kassena
+
+PF0123-C	Ghana	Kassena
+
+PF0124-C	Ghana	Kassena
+
+PF0125-C	Ghana	Kassena
+
+PF0127-C	Ghana	Kassena
+
+PF0128-C	Ghana	Kassena
+
+PF0129-C	Ghana	Kassena
+
+PF0130-C	Ghana	Kassena
+
+PF0131-C	Ghana	Kassena
+
+PF0132-C	Ghana	Kassena
+
+PF0133-C	Ghana	Kassena
+
+PF0134-C	Ghana	Kassena
+
+PF0135-C	Ghana	Kassena
+
+PF0136-C	Ghana	Kassena
+
+PF0137-C	Ghana	Kassena
+
+PF0138-C	Ghana	Kassena
+
+PF0140-C	Ghana	Kassena
+
+PF0141-C	Ghana	Kassena
+
+PF0142-C	Ghana	Kassena
+
+PF0143-C	Ghana	Kassena
+
+PF0144-C	Ghana	Kassena
+
+PF0145-C	Ghana	Kassena
+
+PF0146-C	Ghana	Kassena
+
+PF0147-C	Ghana	Kassena
+
+PF0148-C	Ghana	Kassena
+
+PF0149-C	Ghana	Kassena
+
+PF0150-C	Ghana	Kassena
+
+PF0151-C	Ghana	Kassena
+
+PF0152-C	Ghana	Kassena
+
+PF0153-C	Ghana	Kassena
+
+PF0154-C	Ghana	Kassena
+
+PF0155-C	Ghana	Kassena
+
+PF0156-C	Ghana	Kassena
+
+PF0157-C	Ghana	Kassena
+
+PF0158-C	Ghana	Kassena
+
+PF0159-C	Ghana	Kassena
+
+PF0160-C	Ghana	Kassena
+
+PF0161-C	Ghana	Kassena
+
+PF0162-C	Ghana	Kassena
+
+PF0163-C	Ghana	Kassena
+
+PF0164-C	Ghana	Kassena
+
+PF0166-C	Ghana	Kassena
+
+PF0167-C	Ghana	Kassena
+
+PF0168-C	Ghana	Kassena
+
+PF0169-C	Ghana	Kassena
+
+PF0170-C	Ghana	Kassena
+
+PF0172-C	Ghana	Kassena
+
+PF0175-C	Ghana	Kassena
+
+PF0176-C	Ghana	Kassena
+
+PF0177-C	Ghana	Kassena
+
+PF0178-C	Ghana	Kassena
+
+PF0180-C	Ghana	Kassena
+
+PF0181-C	Ghana	Kassena
+
+PF0184-C	Ghana	Kassena
+
+PF0185-C	Ghana	Kassena
+
+PF0186-C	Ghana	Kassena
+
+PF0188-C	Ghana	Kassena
+
+PF0189-C	Ghana	Kassena
+
+PF0190-C	Ghana	Kassena
+
+PF0191-C	Ghana	Kassena
+
+PF0192-C	Ghana	Kassena
+
+PF0193-C	Ghana	Kassena
+
+PF0195-C	Ghana	Kassena
+
+PF0196-C	Ghana	Kassena
+
+PF0197-C	Ghana	Kassena
+
+PF0198-C	Ghana	Kassena
+
+PF0199-C	Ghana	Kassena
+
+PF0202-C	Ghana	Kassena
+
+PF0203-C	Ghana	Kassena
+
+PF0204-C	Ghana	Kassena
+
+PF0205-C	Ghana	Kassena
+
+PF0206-C	Ghana	Kassena
+
+PF0207-C	Ghana	Kassena
+
+PF0208-C	Ghana	Kassena
+
+PF0211-C	Ghana	Kassena
+
+PF0212-C	Ghana	Kassena
+
+PF0213-C	Ghana	Kassena
+
+PF0214-C	Ghana	Kassena
+
+PF0217-C	Ghana	Kassena
+
+PF0218-C	Ghana	Kassena
+
+PF0219-C	Ghana	Kassena
+
+PF0221-C	Ghana	Kassena
+
+PF0222-C	Ghana	Kassena
+
+PF0223-C	Ghana	Kassena
+
+PF0225-C	Ghana	Kassena
+
+PF0226-C	Ghana	Kassena
+
+PF0228-C	Ghana	Kassena
+
+PF0229-C	Ghana	Kassena
+
+PF0230-C	Ghana	Kassena
+
+PF0231-C	Ghana	Kassena
+
+PF0232-C	Ghana	Kassena
+
+PF0233-C	Ghana	Kassena
+
+PF0234-C	Ghana	Kassena
+
+PF0235-C	Ghana	Kassena
+
+PF0236-C	Ghana	Kassena
+
+PF0238-C	Ghana	Kassena
+
+PF0239-C	Ghana	Kassena
+
+PF0240-C	Ghana	Kassena
+
+PF0241-C	Ghana	Kassena
+
+PF0242-C	Ghana	Kassena
+
+PF0245-C	Ghana	Kassena
+
+PF0246-C	Ghana	Kassena
+
+PF0248-C	Ghana	Kassena
+
+PF0249-C	Ghana	Kassena
+
+PF0250-C	Ghana	Kassena
+
+PF0252-C	Ghana	Kassena
+
+PF0253-C	Ghana	Kassena
+
+PF0254-C	Ghana	Kassena
+
+PF0255-C	Ghana	Kassena
+
+PF0256-C	Ghana	Kassena
+
+PF0258-C	Ghana	Kassena
+
+PF0259-C	Ghana	Kassena
+
+PF0260-C	Ghana	Kassena
+
+PF0261-C	Ghana	Kassena
+
+PF0262-C	Ghana	Kassena
+
+PF0263-C	Ghana	Kassena
+
+PF0264-C	Ghana	Kassena
+
+PF0265-C	Ghana	Kassena
+
+PF0266-C	Ghana	Kassena
+
+PF0267-C	Ghana	Kassena
+
+PF0268-C	Ghana	Kassena
+
+PF0269-C	Ghana	Kassena
+
+PF0270-C	Ghana	Kassena
+
+PF0272-C	Ghana	Kassena
+
+PF0274-C	Ghana	Kassena
+
+PF0275-C	Ghana	Kassena
+
+PF0276-C	Ghana	Kassena
+
+PF0277-C	Ghana	Kassena
+
+PF0278-C	Ghana	Kassena
+
+PF0279-C	Ghana	Kassena
+
+PF0280-C	Ghana	Kassena
+
+PF0281-C	Ghana	Kassena
+
+PF0282-C	Ghana	Kassena
+
+PF0283-C	Ghana	Kassena
+
+PF0285-C	Ghana	Kassena
+
+PF0286-C	Ghana	Kassena
+
+PF0287-C	Ghana	Kassena
+
+PF0288-C	Ghana	Kassena
+
+PF0289-C	Ghana	Kassena
+
+PF0290-C	Ghana	Kassena
+
+PF0291-C	Ghana	Kassena
+
+PF0294-C	Ghana	Kassena
+
+PF0295-C	Ghana	Kassena
+
+PF0298-C	Ghana	Kassena
+
+PF0299-C	Ghana	Kassena
+
+PF0301-C	Ghana	Kassena
+
+PF0304-C	Ghana	Kassena
+
+PF0305-C	Ghana	Kassena
+
+PF0306-C	Ghana	Kassena
+
+PF0308-C	Ghana	Kassena
+
+PF0309-C	Ghana	Kassena
+
+PF0310-C	Ghana	Kassena
+
+PF0311-C	Ghana	Kassena
+
+PF0312-C	Ghana	Kassena
+
+PF0314-C	Ghana	Kassena
+
+PF0318-C	Ghana	Kassena
+
+PF0321-C	Ghana	Kassena
+
+PF0323-C	Ghana	Kassena
+
+PF0325-C	Ghana	Kassena
+
+PF0326-C	Ghana	Kassena
+
+PF0327-C	Ghana	Kassena
+
+PF0328-C	Ghana	Kassena
+
+PF0329-C	Ghana	Kassena
+
+PF0330-C	Ghana	Kassena
+
+PF0331-C	Ghana	Kassena
+
+PF0332-C	Ghana	Kassena
+
+PF0333-C	Ghana	Kassena
+
+PF0334-C	Ghana	Kassena
+
+PF0335-CW	Ghana	Kassena
+
+PF0336-CW	Ghana	Kassena
+
+PF0337-C	Ghana	Kassena
+
+PF0338-C	Ghana	Kassena
+
+PF0339-C	Ghana	Kassena
+
+PF0340-C	Ghana	Kassena
+
+PF0341-C	Ghana	Kassena
+
+PF0342-C	Ghana	Kassena
+
+PF0343-C	Ghana	Kassena
+
+PF0344-C	Ghana	Kassena
+
+PF0345-C	Ghana	Kassena
+
+PF0346-C	Ghana	Kassena
+
+PF0347-C	Ghana	Kassena
+
+PF0349-C	Ghana	Kassena
+
+PF0350-C	Ghana	Kassena
+
+PF0351-C	Ghana	Kassena
+
+PF0352-C	Ghana	Kassena
+
+PF0353-C	Ghana	Kassena
+
+PF0354-C	Ghana	Kassena
+
+PF0355-C	Ghana	Kassena
+
+PF0356-C	Ghana	Kassena
+
+PF0357-C	Ghana	Kassena
+
+PF0358-C	Ghana	Kassena
+
+PF0359-C	Ghana	Kassena
+
+PF0360-C	Ghana	Kassena
+
+PF0361-C	Ghana	Kassena
+
+PF0362-C	Ghana	Kassena
+
+PF0363-C	Ghana	Kassena
+
+PF0364-C	Ghana	Kassena
+
+PF0365-C	Ghana	Kassena
+
+PF0366-C	Ghana	Kassena
+
+PF0367-C	Ghana	Kassena
+
+PF0368-C	Ghana	Kassena
+
+PF0369-C	Ghana	Kassena
+
+PF0370-C	Ghana	Kassena
+
+PF0371-C	Ghana	Kassena
+
+PF0372-C	Ghana	Kassena
+
+PF0373-C	Ghana	Kassena
+
+PF0374-C	Ghana	Kassena
+
+PF0375-C	Ghana	Kassena
+
+PF0376-C	Ghana	Kassena
+
+PF0377-C	Ghana	Kassena
+
+PF0378-C	Ghana	Kassena
+
+PF0380-C	Ghana	Kassena
+
+PF0381-C	Ghana	Kassena
+
+PF0383-C	Ghana	Kassena
+
+PF0385-C	Ghana	Kassena
+
+PF0386-C	Ghana	Kassena
+
+PF0388-C	Ghana	Kassena
+
+PF0389-C	Ghana	Kassena
+
+PF0390-C	Ghana	Kassena
+
+PF0392-C	Ghana	Kassena
+
+PF0393-CW	Ghana	Kassena
+
+PF0395-C	Ghana	Kassena
+
+PF0396-C	Ghana	Kassena
+
+PF0397-C	Ghana	Kassena
+
+PF0398-C	Ghana	Kassena
+
+PF0399-C	Ghana	Kassena
+
+PF0400-C	Ghana	Kassena
+
+PF0401-C	Ghana	Kassena
+
+PF0404-C	Ghana	Kassena
+
+PF0405-C	Ghana	Kassena
+
+PF0406-C	Ghana	Kassena
+
+PF0407-C	Ghana	Kassena
+
+PF0408-C	Ghana	Kassena
+
+PF0409-C	Ghana	Kassena
+
+PF0410-CW	Ghana	Kassena
+
+PF0411-C	Ghana	Kassena
+
+PF0412-C	Ghana	Kassena
+
+PF0413-C	Ghana	Kassena
+
+PF0414-C	Ghana	Kassena
+
+PF0415-C	Ghana	Kassena
+
+PF0417-C	Ghana	Kassena
+
+PF0418-C	Ghana	Kassena
+
+PF0419-C	Ghana	Kassena
+
+PF0421-C	Ghana	Kassena
+
+PF0422-C	Ghana	Kassena
+
+PF0423-C	Ghana	Kassena
+
+PF0424-C	Ghana	Kassena
+
+PF0425-C	Ghana	Kassena
+
+PF0427-C	Ghana	Kassena
+
+PF0428-CW	Ghana	Kassena
+
+PF0430-C	Ghana	Kassena
+
+PF0431-C	Ghana	Kassena
+
+PF0432-C	Ghana	Kassena
+
+PF0433-C	Ghana	Kassena
+
+PF0434-C	Ghana	Kassena
+
+PF0437-C	Ghana	Kassena
+
+PF0438-CW	Ghana	Kassena
+
+PF0439-C	Ghana	Kassena
+
+PF0440-C	Ghana	Kassena
+
+PF0441-CW	Ghana	Kassena
+
+PF0442-C	Ghana	Kassena
+
+PF0443-C	Ghana	Kassena
+
+PF0444-CW	Ghana	Kassena
+
+PF0445-C	Ghana	Kassena
+
+PF0446-CW	Ghana	Kassena
+
+PF0447-C	Ghana	Kassena
+
+PF0448-C	Ghana	Kassena
+
+PF0449-C	Ghana	Kassena
+
+PF0450-C	Ghana	Kassena
+
+PF0451-C	Ghana	Kassena
+
+PF0452-C	Ghana	Kassena
+
+PF0453-C	Ghana	Kassena
+
+PF0454-C	Ghana	Kassena
+
+PF0456-C	Ghana	Kassena
+
+PF0458-C	Ghana	Kassena
+
+PF0461-C	Ghana	Kassena
+
+PF0463-C	Ghana	Kassena
+
+PF0464-C	Ghana	Kassena
+
+PF0465-C	Ghana	Kassena
+
+PF0466-C	Ghana	Kassena
+
+PF0467-C	Ghana	Kassena
+
+PF0469-C	Ghana	Kassena
+
+PF0471-C	Ghana	Kassena
+
+PF0472-C	Ghana	Kassena
+
+PF0473-C	Ghana	Kassena
+
+PF0476-C	Ghana	Kassena
+
+PF0477-C	Ghana	Kassena
+
+PF0478-C	Ghana	Kassena
+
+PF0479-C	Ghana	Kassena
+
+PF0480-C	Ghana	Kassena
+
+PF0482-C	Ghana	Kassena
+
+PF0484-C	Ghana	Kassena
+
+PF0485-C	Ghana	Kassena
+
+PF0486-C	Ghana	Kassena
+
+PF0487-C	Ghana	Kassena
+
+PF0488-C	Ghana	Kassena
+
+PF0489-C	Ghana	Kassena
+
+PF0491-C	Ghana	Kassena
+
+PF0492-C	Ghana	Kassena
+
+PF0493-C	Ghana	Kassena
+
+PF0494-C	Ghana	Kassena
+
+PF0499-C	Ghana	Kassena
+
+PF0502-C	Ghana	Kassena
+
+PF0504-C	Ghana	Kassena
+
+PF0507-C	Ghana	Kassena
+
+PF0510-C	Ghana	Kassena
+
+PF0511-C	Ghana	Kassena
+
+PF0512-C	Ghana	Kassena
+
+PF0513-C	Ghana	Kassena
+
+PF0514-C	Ghana	Kassena
+
+PF0515-C	Ghana	Kassena
+
+PF0518-C	Ghana	Kassena
+
+PF0519-C	Ghana	Kassena
+
+PF0522-C	Ghana	Kassena
+
+PF0524-C	Ghana	Kassena
+
+PF0525-C	Ghana	Kassena
+
+PF0529-C	Ghana	Kassena
+
+PF0531-C	Ghana	Kassena
+
+PF0539-C	Ghana	Kassena
+
+PF0542-C	Ghana	Kassena
+
+PF0550-C	Ghana	Kintampo
+
+PF0550-Cx	Ghana	Kintampo
+
+PF0554-C	Ghana	Kintampo
+
+PF0554-Cx	Ghana	Kintampo
+
+PF0556-C	Ghana	Kintampo
+
+PF0556-Cx	Ghana	Kintampo
+
+PF0557-C	Ghana	Kintampo
+
+PF0557-Cx	Ghana	Kintampo
+
+PF0559-C	Ghana	Kintampo
+
+PF0559-Cx	Ghana	Kintampo
+
+PF0560-C	Ghana	Kintampo
+
+PF0560-Cx	Ghana	Kintampo
+
+PF0562-C	Ghana	Kintampo
+
+PF0562-Cx	Ghana	Kintampo
+
+PF0578-C	Ghana	Kintampo
+
+PF0578-Cx	Ghana	Kintampo
+
+PF0579-C	Ghana	Kintampo
+
+PF0579-Cx	Ghana	Kintampo
+
+PF0583-C	Ghana	Kintampo
+
+PF0583-Cx	Ghana	Kintampo
+
+PF0584-C	Ghana	Kintampo
+
+PF0584-Cx	Ghana	Kintampo
+
+PF0587-C	Ghana	Kintampo
+
+PF0590-C	Ghana	Kintampo
+
+PF0590-Cx	Ghana	Kintampo
+
+PF0596-C	Ghana	Kintampo
+
+PF0597-C	Ghana	Kintampo
+
+PF0599-C	Ghana	Kintampo
+
+PF0600-C	Ghana	Kintampo
+
+PF0603-C	Ghana	Kintampo
+
+PF0604-C	Ghana	Kintampo
+
+PF0606-C	Ghana	Kintampo
+
+PF0608-C	Ghana	Kintampo
+
+PF0609-C	Ghana	Kintampo
+
+PF0610-C	Ghana	Kintampo
+
+PF0612-C	Ghana	Kintampo
+
+PF0613-C	Ghana	Kintampo
+
+PF0614-C	Ghana	Kintampo
+
+PF0615-C	Ghana	Kintampo
+
+PF0616-C	Ghana	Kintampo
+
+PF0617-C	Ghana	Kintampo
+
+PF0619-C	Ghana	Kintampo
+
+PF0620-C	Ghana	Kintampo
+
+PF0621-C	Ghana	Kintampo
+
+PF0624-C	Ghana	Kintampo
+
+PF0625-C	Ghana	Kintampo
+
+PF0626-C	Ghana	Kintampo
+
+PF0627-C	Ghana	Kintampo
+
+PF0628-C	Ghana	Kintampo
+
+PF0629-C	Ghana	Kintampo
+
+PF0630-C	Ghana	Kintampo
+
+PF0632-C	Ghana	Kintampo
+
+PF0633-C	Ghana	Kintampo
+
+PF0634-C	Ghana	Kintampo
+
+PF0635-C	Ghana	Kintampo
+
+PF0638-C	Ghana	Kintampo
+
+PF0639-C	Ghana	Kintampo
+
+PF0641-C	Ghana	Kintampo
+
+PF0643-C	Ghana	Kintampo
+
+PF0647-C	Ghana	Kintampo
+
+PF0650-C	Ghana	Kintampo
+
+PF0651-C	Ghana	Kintampo
+
+PF0653-C	Ghana	Kintampo
+
+PF0655-C	Ghana	Kintampo
+
+PF0661-C	Ghana	Kintampo
+
+PF0663-C	Ghana	Kintampo
+
+PF0664-C	Ghana	Kintampo
+
+PF0666-C	Ghana	Kintampo
+
+PF0667-C	Ghana	Kassena
+
+PF0668-C	Ghana	Kassena
+
+PF0669-C	Ghana	Kassena
+
+PF0670-C	Ghana	Kassena
+
+PF0671-C	Ghana	Kassena
+
+PF0672-C	Ghana	Kassena
+
+PF0673-C	Ghana	Kassena
+
+PF0674-C	Ghana	Kassena
+
+PF0675-C	Ghana	Kassena
+
+PF0676-C	Ghana	Kassena
+
+PF0678-C	Ghana	Kassena
+
+PF0679-C	Ghana	Kassena
+
+PF0680-C	Ghana	Kassena
+
+PF0681-C	Ghana	Kassena
+
+PF0682-C	Ghana	Kassena
+
+PF0683-C	Ghana	Kassena
+
+PF0684-C	Ghana	Kassena
+
+PF0685-C	Ghana	Kassena
+
+PF0686-C	Ghana	Kassena
+
+PF0687-C	Ghana	Kassena
+
+PF0689-C	Ghana	Kassena
+
+PF0690-C	Ghana	Kassena
+
+PF0691-C	Ghana	Kassena
+
+PF0692-C	Ghana	Kassena
+
+PF0693-C	Ghana	Kassena
+
+PF0694-C	Ghana	Kassena
+
+PF0695-C	Ghana	Kassena
+
+PF0696-C	Ghana	Kassena
+
+PF0697-C	Ghana	Kassena
+
+PF0698-C	Ghana	Kassena
+
+PF0699-C	Ghana	Kassena
+
+PF0700-C	Ghana	Kassena
+
+PF0701-C	Ghana	Kassena
+
+PF0703-C	Ghana	Kassena
+
+PF0704-C	Ghana	Kassena
+
+PF0706-C	Ghana	Kassena
+
+PF0707-C	Ghana	Kassena
+
+PF0708-C	Ghana	Kassena
+
+PF0710-C	Ghana	Kassena
+
+PF0711-C	Ghana	Kassena
+
+PF0712-C	Ghana	Kassena
+
+PF0715-C	Ghana	Kassena
+
+PF0717-C	Ghana	Kassena
+
+PF0718-C	Ghana	Kassena
+
+PF0720-C	Ghana	Kassena
+
+PF0722-C	Ghana	Kassena
+
+PF0723-C	Ghana	Kassena
+
+PF0724-C	Ghana	Kassena
+
+PF0725-C	Ghana	Kassena
+
+PF0727-C	Ghana	Kassena
+
+PF0728-C	Ghana	Kassena
+
+PF0729-C	Ghana	Kassena
+
+PF0730-C	Ghana	Kassena
+
+PF0731-C	Ghana	Kassena
+
+PF0732-C	Ghana	Kassena
+
+PF0733-C	Ghana	Kassena
+
+PF0734-C	Ghana	Kassena
+
+PF0735-C	Ghana	Kassena
+
+PF0736-C	Ghana	Kassena
+
+PF0737-C	Ghana	Kassena
+
+PF0738-C	Ghana	Kassena
+
+PF0739-C	Ghana	Kassena
+
+PF0740-C	Ghana	Kassena
+
+PF0741-C	Ghana	Kassena
+
+PF0742-C	Ghana	Kassena
+
+PF0743-C	Ghana	Kassena
+
+PF0744-C	Ghana	Kassena
+
+PF0745-C	Ghana	Kassena
+
+PF0747-C	Ghana	Kassena
+
+PF0748-C	Ghana	Kassena
+
+PF0749-C	Ghana	Kassena
+
+PF0750-C	Ghana	Kassena
+
+PF0751-C	Ghana	Kassena
+
+PF0752-C	Ghana	Kassena
+
+PF0753-C	Ghana	Kassena
+
+PF0754-C	Ghana	Kassena
+
+PF0755-C	Ghana	Kassena
+
+PF0756-C	Ghana	Kassena
+
+PF0757-C	Ghana	Kassena
+
+PF0758-C	Ghana	Kassena
+
+PF0759-C	Ghana	Kassena
+
+PF0760-C	Ghana	Kassena
+
+PF0761-C	Ghana	Kassena
+
+PF0762-C	Ghana	Kassena
+
+PF0763-C	Ghana	Kassena
+
+PF0764-C	Ghana	Kassena
+
+PF0765-C	Ghana	Kassena
+
+PF0766-C	Ghana	Kassena
+
+PF0767-C	Ghana	Kassena
+
+PF0768-C	Ghana	Kassena
+
+PF0769-C	Ghana	Kassena
+
+PF0771-C	Ghana	Kassena
+
+PF0772-C	Ghana	Kassena
+
+PF0773-C	Ghana	Kassena
+
+PF0774-C	Ghana	Kassena
+
+PF0775-C	Ghana	Kassena
+
+PF0776-C	Ghana	Kassena
+
+PF0777-C	Ghana	Kassena
+
+PF0778-C	Ghana	Kassena
+
+PF0780-C	Ghana	Kassena
+
+PF0781-C	Ghana	Kassena
+
+PF0782-C	Ghana	Kassena
+
+PF0783-C	Ghana	Kassena
+
+PF0784-C	Ghana	Kassena
+
+PF0785-C	Ghana	Kassena
+
+PF0786-C	Ghana	Kassena
+
+PF0787-C	Ghana	Kassena
+
+PF0789-C	Ghana	Kassena
+
+PF0790-C	Ghana	Kassena
+
+PF0791-C	Ghana	Kassena
+
+PF0792-C	Ghana	Kassena
+
+PF0793-C	Ghana	Kassena
+
+PF0794-C	Ghana	Kassena
+
+PF0796-C	Ghana	Kassena
+
+PF0798-C	Ghana	Kassena
+
+PF0799-C	Ghana	Kassena
+
+PF0800-C	Ghana	Kassena
+
+PF0801-C	Ghana	Kassena
+
+PF0802-C	Ghana	Kassena
+
+PF0803-C	Ghana	Kassena
+
+PF0804-C	Ghana	Kassena
+
+PF0805-C	Ghana	Kassena
+
+PF0806-C	Ghana	Kassena
+
+PF0807-C	Ghana	Kassena
+
+PF0808-C	Ghana	Kassena
+
+PF0809-C	Ghana	Kassena
+
+PF0810-C	Ghana	Kassena
+
+PF0811-C	Ghana	Kassena
+
+PF0812-C	Ghana	Kassena
+
+PF0813-C	Ghana	Kassena
+
+PF0814-C	Ghana	Kassena
+
+PF0815-C	Ghana	Kassena
+
+PF0816-C	Ghana	Kassena
+
+PF0817-C	Ghana	Kassena
+
+PF0818-C	Ghana	Kassena
+
+PF0819-C	Ghana	Kassena
+
+PF0820-C	Ghana	Kassena
+
+PF0821-C	Ghana	Kassena
+
+PF0822-C	Ghana	Kassena
+
+PF0823-C	Ghana	Kassena
+
+PG0004-CW		
+
+PG0008-CW		
+
+PG0015-C		
+
+PG0016-C		
+
+PG0017-C		
+
+PG0018-C		
+
+PG0019-C		
+
+PG0020-C		
+
+PG0021-C		
+
+PG0022-Cx		
+
+PG0023-C		
+
+PG0024-C		
+
+PG0025-C		
+
+PG0026-C		
+
+PG0027-C		
+
+PG0028-C		
+
+PG0029-Cx		
+
+PG0030-C		
+
+PG0031-C		
+
+PG0032-Cx		
+
+PG0033-Cx		
+
+PG0034-C		
+
+PG0035-Cx		
+
+PG0036-C		
+
+PG0037-C		
+
+PG0038-C		
+
+PG0039-C		
+
+PG0040-Cx		
+
+PG0041-C		
+
+PG0042-C		
+
+PG0043-C		
+
+PG0044-C		
+
+PG0045-C		
+
+PG0046-Cx		
+
+PG0047-C		
+
+PG0048-C		
+
+PG0051-C		
+
+PG0052-C		
+
+PG0053-C		
+
+PG0054-C		
+
+PG0055-C		
+
+PG0056-C		
+
+PG0057-C		
+
+PG0058-C		
+
+PG0060-C		
+
+PG0061-C		
+
+PG0062-C		
+
+PG0063-C		
+
+PG0064-C		
+
+PG0065-C		
+
+PG0066-C		
+
+PG0067-C		
+
+PG0068-C		
+
+PG0069-C		
+
+PG0070-C		
+
+PG0071-C		
+
+PG0072-C		
+
+PG0074-C		
+
+PG0077-CW		
+
+PG0078-C		
+
+PG0078-CW		
+
+PG0079-C		
+
+PG0079-CW		
+
+PG0080-C		
+
+PG0081-CW		
+
+PG0082-C		
+
+PG0085-C		
+
+PG0086-C		
+
+PG0086-CW		
+
+PG0087-C		
+
+PG0088-C		
+
+PG0091-C		
+
+PG0093-C		
+
+PG0094-CW		
+
+PG0095-C		
+
+PG0095-CW		
+
+PG0096-C		
+
+PG0097-C		
+
+PG0098-C		
+
+PG0099-C		
+
+PG0100-C		
+
+PG0100-CW		
+
+PG0102-C		
+
+PG0102-CW		
+
+PG0103-CW		
+
+PG0104-C		
+
+PG0104-CW		
+
+PG0105-C		
+
+PG0105-CW		
+
+PG0106-C		
+
+PG0107-C		
+
+PG0109-C		
+
+PG0111-C		
+
+PG0111-CW		
+
+PG0112-C		
+
+PG0112-CW		
+
+PG0389-C		
+
+PG0390-C		
+
+PG0391-C		
+
+PG0392-C		
+
+PG0393-C		
+
+PG0394-C		
+
+PG0395-C		
+
+PG0396-C		
+
+PG0397-C		
+
+PG0398-C		
+
+PG0399-C		
+
+PG0400-C		
+
+PG0401-C		
+
+PG0402-C		
+
+PG0403-C		
+
+PG0404-C		
+
+PG0405-C		
+
+PG0406-C		
+
+PG0407-C		
+
+PG0408-C		
+
+PG0409-C		
+
+PG0410-C		
+
+PG0411-C		
+
+PG0412-C		
+
+PG0413-C		
+
+PG0414-C		
+
+PG0415-C		
+
+PH0047-Cx	Cambodia	Pursat
+
+PH0051-Cx	Cambodia	Pursat
+
+PH0052-C	Cambodia	Pursat
+
+PH0054-C	Cambodia	Pursat
+
+PH0055-C	Cambodia	Pursat
+
+PH0056-C	Cambodia	Pursat
+
+PH0057-C	Cambodia	Pursat
+
+PH0058-C	Cambodia	Pursat
+
+PH0059-C	Cambodia	Pursat
+
+PH0060-C	Cambodia	Pursat
+
+PH0063-C	Cambodia	Pursat
+
+PH0064-C	Cambodia	Pursat
+
+PH0157-C	Cambodia	Pursat
+
+PH0161-C	Cambodia	Pursat
+
+PH0163-C	Cambodia	Pursat
+
+PH0164-C	Cambodia	Pursat
+
+PH0165-C	Cambodia	Pursat
+
+PH0167-C	Cambodia	Pursat
+
+PH0169-C	Cambodia	Pursat
+
+PH0171-C	Cambodia	Pursat
+
+PH0172-C	Cambodia	Pursat
+
+PH0173-C	Cambodia	Pursat
+
+PH0191-C	Cambodia	Pursat
+
+PH0192-C	Cambodia	Pursat
+
+PH0193-C	Cambodia	Pursat
+
+PH0194-C	Cambodia	Pursat
+
+PH0195-C	Cambodia	Pursat
+
+PH0197-C	Cambodia	Pursat
+
+PH0198-C	Cambodia	Pursat
+
+PH0199-C	Cambodia	Pursat
+
+PH0200-C	Cambodia	Pursat
+
+PH0201-C	Cambodia	Ratanakiri
+
+PH0203-C	Cambodia	Ratanakiri
+
+PH0204-C	Cambodia	Ratanakiri
+
+PH0205-C	Cambodia	Ratanakiri
+
+PH0206-C	Cambodia	Pursat
+
+PH0207-C	Cambodia	Pursat
+
+PH0208-C	Cambodia	Pursat
+
+PH0209-C	Cambodia	Pursat
+
+PH0210-C	Cambodia	Pursat
+
+PH0211-C	Cambodia	Pursat
+
+PH0212-C	Cambodia	Pursat
+
+PH0213-C	Cambodia	Pursat
+
+PH0238-C	Cambodia	Pursat
+
+PH0239-C	Cambodia	Pursat
+
+PH0240-C	Cambodia	Pursat
+
+PH0241-C	Cambodia	Pursat
+
+PH0242-C	Cambodia	Pursat
+
+PH0243-C	Cambodia	Pursat
+
+PH0244-C	Cambodia	Pursat
+
+PH0245-C	Cambodia	Pursat
+
+PH0246-C	Cambodia	Pursat
+
+PH0247-C	Cambodia	Pursat
+
+PH0248-C	Cambodia	Pursat
+
+PH0249-C	Cambodia	Pursat
+
+PH0250-C	Cambodia	Pursat
+
+PH0251-C	Cambodia	Pursat
+
+PH0252-C	Cambodia	Pursat
+
+PH0253-C	Cambodia	Pursat
+
+PH0274-C	Cambodia	Pursat
+
+PH0283-C	Cambodia	Pursat
+
+PH0284-C	Cambodia	Pursat
+
+PH0285-C	Cambodia	Pursat
+
+PH0286-CW	Cambodia	Pursat
+
+PH0294-C	Cambodia	Pursat
+
+PH0297-C	Cambodia	Pursat
+
+PH0300-C	Cambodia	Pursat
+
+PH0302-C	Cambodia	Pursat
+
+PH0303-CW	Cambodia	Pursat
+
+PH0304-C	Cambodia	Pursat
+
+PH0305-C	Cambodia	Pursat
+
+PH0306-C	Cambodia	Pursat
+
+PH0307-C	Cambodia	Pursat
+
+PH0308-CW	Cambodia	Pursat
+
+PH0321-C	Cambodia	Pursat
+
+PH0322-C	Cambodia	Pursat
+
+PH0324-C	Cambodia	Pursat
+
+PH0325-C	Cambodia	Pursat
+
+PH0326-C	Cambodia	Pursat
+
+PH0327-C	Cambodia	Pursat
+
+PH0328-C	Cambodia	Pursat
+
+PH0329-C	Cambodia	Pursat
+
+PH0330-C	Cambodia	Pursat
+
+PH0332-C	Cambodia	Pursat
+
+PH0333-C	Cambodia	Pursat
+
+PH0334-C	Cambodia	Pursat
+
+PH0335-C	Cambodia	Pursat
+
+PH0336-C	Cambodia	Pursat
+
+PH0337-C	Cambodia	Pursat
+
+PH0338-C	Cambodia	Pursat
+
+PH0339-C	Cambodia	Ratanakiri
+
+PH0340-C	Cambodia	Ratanakiri
+
+PH0341-C	Cambodia	Ratanakiri
+
+PH0342-C	Cambodia	Ratanakiri
+
+PH0343-C	Cambodia	Ratanakiri
+
+PH0344-C	Cambodia	Ratanakiri
+
+PH0345-C	Cambodia	Ratanakiri
+
+PH0346-C	Cambodia	Ratanakiri
+
+PH0347-C	Cambodia	Ratanakiri
+
+PH0348-C	Cambodia	Ratanakiri
+
+PH0349-C	Cambodia	Ratanakiri
+
+PH0350-C	Cambodia	Ratanakiri
+
+PH0351-C	Cambodia	Ratanakiri
+
+PH0352-C	Cambodia	Ratanakiri
+
+PH0353-C	Cambodia	Ratanakiri
+
+PH0354-C	Cambodia	Ratanakiri
+
+PH0355-C	Cambodia	Ratanakiri
+
+PH0356-C	Cambodia	Ratanakiri
+
+PH0357-C	Cambodia	Ratanakiri
+
+PH0358-C	Cambodia	Ratanakiri
+
+PH0359-C	Cambodia	Ratanakiri
+
+PH0360-C	Cambodia	Ratanakiri
+
+PH0361-C	Cambodia	Ratanakiri
+
+PH0362-C	Cambodia	Ratanakiri
+
+PH0363-C	Cambodia	Ratanakiri
+
+PH0364-C	Cambodia	Ratanakiri
+
+PH0365-C	Cambodia	Ratanakiri
+
+PH0366-C	Cambodia	Ratanakiri
+
+PH0367-C	Cambodia	Ratanakiri
+
+PH0368-C	Cambodia	Ratanakiri
+
+PH0369-C	Cambodia	Ratanakiri
+
+PH0370-C	Cambodia	Ratanakiri
+
+PH0371-C	Cambodia	Ratanakiri
+
+PH0372-C	Cambodia	Ratanakiri
+
+PH0373-C	Cambodia	Ratanakiri
+
+PH0374-C	Cambodia	Ratanakiri
+
+PH0375-C	Cambodia	Ratanakiri
+
+PH0376-C	Cambodia	Ratanakiri
+
+PH0377-C	Cambodia	Ratanakiri
+
+PH0378-C	Cambodia	Ratanakiri
+
+PH0379-C	Cambodia	Ratanakiri
+
+PH0380-C	Cambodia	Ratanakiri
+
+PH0381-C	Cambodia	Ratanakiri
+
+PH0382-C	Cambodia	Ratanakiri
+
+PH0383-C	Cambodia	Ratanakiri
+
+PH0384-C	Cambodia	Ratanakiri
+
+PH0453-C	Cambodia	Pursat
+
+PH0454-C	Cambodia	Pursat
+
+PH0455-C	Cambodia	Pursat
+
+PH0456-C	Cambodia	Pursat
+
+PH0457-CW	Cambodia	Pursat
+
+PH0458-CW	Cambodia	Pursat
+
+PH0459-CW	Cambodia	Pursat
+
+PH0460-C	Cambodia	Pursat
+
+PH0461-C	Cambodia	Pursat
+
+PH0462-C	Cambodia	Pursat
+
+PH0463-C	Cambodia	Pursat
+
+PH0464-CW	Cambodia	Pursat
+
+PH0465-CW	Cambodia	Pursat
+
+PH0466-C	Cambodia	Pursat
+
+PH0467-CW	Cambodia	Pursat
+
+PH0468-C	Cambodia	Pursat
+
+PH0469-CW	Cambodia	Pursat
+
+PH0470-C	Cambodia	Pursat
+
+PH0471-C	Cambodia	Pursat
+
+PH0472-C	Cambodia	Pursat
+
+PH0473-C	Cambodia	Pursat
+
+PH0474-CW	Cambodia	Pursat
+
+PH0475-C	Cambodia	Pursat
+
+PH0477-C	Cambodia	Pursat
+
+PH0478-C	Cambodia	Pursat
+
+PH0479-CW	Cambodia	Pursat
+
+PH0480-C	Cambodia	Pursat
+
+PH0481-C	Cambodia	Pursat
+
+PH0482-C	Cambodia	Pursat
+
+PH0483-CW	Cambodia	Pursat
+
+PH0484-C	Cambodia	Pursat
+
+PH0485-C	Cambodia	Pursat
+
+PH0486-C	Cambodia	Pursat
+
+PH0487-C	Cambodia	Pursat
+
+PH0488-C	Cambodia	Pursat
+
+PH0489-C	Cambodia	Pursat
+
+PH0490-C	Cambodia	Pursat
+
+PH0494-CW	Cambodia	Pursat
+
+PH0495-CW	Cambodia	Pursat
+
+PH0496-CW	Cambodia	Pursat
+
+PH0497-CW	Cambodia	Pursat
+
+PH0498-CW	Cambodia	Pursat
+
+PH0499-CW	Cambodia	Pursat
+
+PH0500-CW	Cambodia	Pursat
+
+PH0501-CW	Cambodia	Pursat
+
+PH0502-C	Cambodia	Ratanakiri
+
+PH0503-C	Cambodia	Ratanakiri
+
+PH0504-C	Cambodia	Ratanakiri
+
+PH0505-C	Cambodia	Ratanakiri
+
+PH0506-C	Cambodia	Ratanakiri
+
+PH0507-C	Cambodia	Ratanakiri
+
+PH0508-C	Cambodia	Ratanakiri
+
+PH0510-C	Cambodia	Ratanakiri
+
+PH0511-C	Cambodia	PreahVihear
+
+PH0513-C	Cambodia	PreahVihear
+
+PH0514-C	Cambodia	PreahVihear
+
+PH0515-C	Cambodia	PreahVihear
+
+PH0516-C	Cambodia	PreahVihear
+
+PH0517-C	Cambodia	PreahVihear
+
+PH0518-C	Cambodia	PreahVihear
+
+PH0519-C	Cambodia	PreahVihear
+
+PH0520-C	Cambodia	PreahVihear
+
+PH0521-C	Cambodia	PreahVihear
+
+PH0522-C	Cambodia	PreahVihear
+
+PH0523-C	Cambodia	PreahVihear
+
+PH0524-C	Cambodia	PreahVihear
+
+PH0525-C	Cambodia	PreahVihear
+
+PH0526-C	Cambodia	Pursat
+
+PH0527-C	Cambodia	Pursat
+
+PH0528-C	Cambodia	Pursat
+
+PH0529-C	Cambodia	Pursat
+
+PH0530-C	Cambodia	Pursat
+
+PH0531-C	Cambodia	Pursat
+
+PH0532-C	Cambodia	Pursat
+
+PH0533-C	Cambodia	Pursat
+
+PH0534-C	Cambodia	Pursat
+
+PH0535-C	Cambodia	Pursat
+
+PH0536-C	Cambodia	Pursat
+
+PH0537-C	Cambodia	Pursat
+
+PH0538-C	Cambodia	Pursat
+
+PH0539-C	Cambodia	Pursat
+
+PH0540-C	Cambodia	Pursat
+
+PH0541-C	Cambodia	Pursat
+
+PH0542-C	Cambodia	Pursat
+
+PH0543-C	Cambodia	Pursat
+
+PH0544-C	Cambodia	Pursat
+
+PH0545-C	Cambodia	Pursat
+
+PH0546-C	Cambodia	Pursat
+
+PH0547-C	Cambodia	Pursat
+
+PH0548-C	Cambodia	Pursat
+
+PH0549-C	Cambodia	Pursat
+
+PH0551-C	Cambodia	Pursat
+
+PH0552-C	Cambodia	Pursat
+
+PH0553-C	Cambodia	Pursat
+
+PH0554-C	Cambodia	Pursat
+
+PH0555-C	Cambodia	Pursat
+
+PH0556-C	Cambodia	Pursat
+
+PH0557-C	Cambodia	Pursat
+
+PH0558-C	Cambodia	Pursat
+
+PH0559-C	Cambodia	Pursat
+
+PH0560-C	Cambodia	Pursat
+
+PH0561-C	Cambodia	Pursat
+
+PH0562-C	Cambodia	Pursat
+
+PH0563-C	Cambodia	Pursat
+
+PH0564-C	Cambodia	Pursat
+
+PH0565-C	Cambodia	Pursat
+
+PH0566-C	Cambodia	Pursat
+
+PH0568-C	Cambodia	Pursat
+
+PH0569-C	Cambodia	Pursat
+
+PH0570-C	Cambodia	Pursat
+
+PH0571-C	Cambodia	Pursat
+
+PH0572-C	Cambodia	Pursat
+
+PH0573-C	Cambodia	Pursat
+
+PH0574-C	Cambodia	Pursat
+
+PH0575-C	Cambodia	Pursat
+
+PH0576-C	Cambodia	Pursat
+
+PH0578-C	Cambodia	Pursat
+
+PH0579-C	Cambodia	Pursat
+
+PH0580-C	Cambodia	Pursat
+
+PH0582-C	Cambodia	Pursat
+
+PH0583-C	Cambodia	Pursat
+
+PH0584-C	Cambodia	Pursat
+
+PH0585-C	Cambodia	PreahVihear
+
+PH0586-C	Cambodia	PreahVihear
+
+PH0587-C	Cambodia	PreahVihear
+
+PH0588-C	Cambodia	PreahVihear
+
+PH0589-C	Cambodia	PreahVihear
+
+PH0590-C	Cambodia	PreahVihear
+
+PH0591-C	Cambodia	PreahVihear
+
+PH0592-C	Cambodia	PreahVihear
+
+PH0593-C	Cambodia	PreahVihear
+
+PH0594-C	Cambodia	PreahVihear
+
+PH0595-C	Cambodia	PreahVihear
+
+PH0596-C	Cambodia	PreahVihear
+
+PH0597-C	Cambodia	PreahVihear
+
+PH0598-C	Cambodia	PreahVihear
+
+PH0599-C	Cambodia	PreahVihear
+
+PH0600-C	Cambodia	PreahVihear
+
+PH0601-C	Cambodia	PreahVihear
+
+PH0602-C	Cambodia	PreahVihear
+
+PH0603-C	Cambodia	PreahVihear
+
+PH0604-C	Cambodia	PreahVihear
+
+PH0605-C	Cambodia	PreahVihear
+
+PH0608-C	Cambodia	PreahVihear
+
+PH0609-C	Cambodia	PreahVihear
+
+PH0610-C	Cambodia	PreahVihear
+
+PH0611-C	Cambodia	PreahVihear
+
+PH0613-C	Cambodia	PreahVihear
+
+PH0614-C	Cambodia	Ratanakiri
+
+PH0615-C	Cambodia	Ratanakiri
+
+PH0616-C	Cambodia	Ratanakiri
+
+PH0617-C	Cambodia	Ratanakiri
+
+PH0619-C	Cambodia	Ratanakiri
+
+PH0620-C	Cambodia	Ratanakiri
+
+PH0621-C	Cambodia	Ratanakiri
+
+PH0623-C	Cambodia	Ratanakiri
+
+PH0624-C	Cambodia	Ratanakiri
+
+PH0625-C	Cambodia	Ratanakiri
+
+PH0626-C	Cambodia	Ratanakiri
+
+PH0627-C	Cambodia	Ratanakiri
+
+PH0628-C	Cambodia	Ratanakiri
+
+PH0629-C	Cambodia	Ratanakiri
+
+PH0630-C	Cambodia	Ratanakiri
+
+PH0631-C	Cambodia	Ratanakiri
+
+PH0632-C	Cambodia	Ratanakiri
+
+PH0633-C	Cambodia	Ratanakiri
+
+PH0634-C	Cambodia	Ratanakiri
+
+PH0635-C	Cambodia	Ratanakiri
+
+PH0636-C	Cambodia	Ratanakiri
+
+PH0637-C	Cambodia	Ratanakiri
+
+PH0638-C	Cambodia	Ratanakiri
+
+PH0639-C	Cambodia	Ratanakiri
+
+PH0640-C	Cambodia	Ratanakiri
+
+PH0641-C	Cambodia	Ratanakiri
+
+PH0642-C	Cambodia	Ratanakiri
+
+PH0643-C	Cambodia	Ratanakiri
+
+PH0644-C	Cambodia	Ratanakiri
+
+PH0645-C	Cambodia	Ratanakiri
+
+PH0646-C	Cambodia	Ratanakiri
+
+PH0647-C	Cambodia	Ratanakiri
+
+PH0648-C	Cambodia	Ratanakiri
+
+PH0650-C	Cambodia	Ratanakiri
+
+PH0651-C	Cambodia	Ratanakiri
+
+PH0676-C	Cambodia	Pursat
+
+PH0677-C	Cambodia	Pursat
+
+PH0678-C	Cambodia	Pursat
+
+PH0679-C	Cambodia	Pursat
+
+PH0680-C	Cambodia	Pursat
+
+PH0681-C	Cambodia	Pursat
+
+PH0682-C	Cambodia	Pursat
+
+PH0683-C	Cambodia	Pursat
+
+PH0684-C	Cambodia	Pursat
+
+PH0685-C	Cambodia	Pursat
+
+PH0686-C	Cambodia	Pursat
+
+PH0687-C	Cambodia	Pursat
+
+PH0689-C	Cambodia	Pursat
+
+PH0692-C	Cambodia	Pursat
+
+PH0694-C	Cambodia	Pursat
+
+PH0695-C	Cambodia	Pursat
+
+PH0696-C	Cambodia	Pursat
+
+PH0697-C	Cambodia	Pursat
+
+PH0698-C	Cambodia	Pursat
+
+PH0700-C	Cambodia	Pursat
+
+PH0701-C	Cambodia	Pursat
+
+PH0702-C	Cambodia	Pursat
+
+PH0703-C	Cambodia	Pursat
+
+PH0704-C	Cambodia	Pursat
+
+PH0705-C	Cambodia	Pursat
+
+PH0706-C	Cambodia	Pursat
+
+PH0707-C	Cambodia	Pursat
+
+PH0708-C	Cambodia	Pursat
+
+PH0709-C	Cambodia	Pursat
+
+PH0712-C	Cambodia	Pursat
+
+PH0713-C	Cambodia	Pursat
+
+PH0714-C	Cambodia	Pursat
+
+PH0715-C	Cambodia	Pursat
+
+PH0716-C	Cambodia	Pursat
+
+PH0717-C	Cambodia	Pursat
+
+PH0718-C	Cambodia	Pursat
+
+PH0719-C	Cambodia	Pursat
+
+PH0722-C	Cambodia	Pursat
+
+PH0723-C	Cambodia	Pursat
+
+PH0724-C	Cambodia	Pursat
+
+PH0725-C	Cambodia	Pursat
+
+PH0726-Cx	Cambodia	Pursat
+
+PH0727-C	Cambodia	PreahVihear
+
+PH0728-C	Cambodia	PreahVihear
+
+PH0729-C	Cambodia	PreahVihear
+
+PH0730-C	Cambodia	PreahVihear
+
+PH0731-C	Cambodia	PreahVihear
+
+PH0732-C	Cambodia	PreahVihear
+
+PH0733-C	Cambodia	PreahVihear
+
+PH0734-C	Cambodia	PreahVihear
+
+PH0735-C	Cambodia	PreahVihear
+
+PH0736-C	Cambodia	PreahVihear
+
+PH0737-C	Cambodia	PreahVihear
+
+PH0738-C	Cambodia	PreahVihear
+
+PH0739-C	Cambodia	PreahVihear
+
+PH0741-C	Cambodia	PreahVihear
+
+PH0742-C	Cambodia	PreahVihear
+
+PH0743-C	Cambodia	PreahVihear
+
+PH0744-C	Cambodia	PreahVihear
+
+PH0745-C	Cambodia	PreahVihear
+
+PH0746-C	Cambodia	PreahVihear
+
+PH0747-Cx	Cambodia	PreahVihear
+
+PH0749-C	Cambodia	PreahVihear
+
+PH0750-Cx	Cambodia	PreahVihear
+
+PH0752-C	Cambodia	PreahVihear
+
+PH0753-Cx	Cambodia	PreahVihear
+
+PH0754-C	Cambodia	PreahVihear
+
+PH0755-C	Cambodia	PreahVihear
+
+PH0756-Cx	Cambodia	PreahVihear
+
+PH0757-C	Cambodia	PreahVihear
+
+PH0758-C	Cambodia	PreahVihear
+
+PH0759-C	Cambodia	PreahVihear
+
+PH0760-C	Cambodia	PreahVihear
+
+PH0761-C	Cambodia	PreahVihear
+
+PH0762-Cx	Cambodia	PreahVihear
+
+PH0763-C	Cambodia	PreahVihear
+
+PH0764-C	Cambodia	Ratanakiri
+
+PH0765-C	Cambodia	Ratanakiri
+
+PH0766-Cx	Cambodia	Ratanakiri
+
+PH0767-C	Cambodia	Ratanakiri
+
+PH0768-C	Cambodia	Ratanakiri
+
+PH0769-C	Cambodia	Ratanakiri
+
+PH0770-C	Cambodia	Ratanakiri
+
+PH0772-C	Cambodia	Ratanakiri
+
+PH0773-Cx	Cambodia	Ratanakiri
+
+PH0774-C	Cambodia	Ratanakiri
+
+PH0775-Cx	Cambodia	Ratanakiri
+
+PH0776-C	Cambodia	Ratanakiri
+
+PH0777-C	Cambodia	Ratanakiri
+
+PH0778-C	Cambodia	Ratanakiri
+
+PH0779-Cx	Cambodia	Ratanakiri
+
+PH0780-C	Cambodia	Ratanakiri
+
+PH0782-C	Cambodia	Ratanakiri
+
+PH0783-C	Cambodia	Ratanakiri
+
+PH0784-C	Cambodia	Ratanakiri
+
+PH0785-Cx	Cambodia	Ratanakiri
+
+PH0786-Cx	Cambodia	Ratanakiri
+
+PH0788-C	Cambodia	Ratanakiri
+
+PH0789-C	Cambodia	Ratanakiri
+
+PH0790-C	Cambodia	Ratanakiri
+
+PH0793-C	Cambodia	Ratanakiri
+
+PH0794-C	Cambodia	Ratanakiri
+
+PH0795-C	Cambodia	Ratanakiri
+
+PH0797-C	Cambodia	Ratanakiri
+
+PH0800-C	Cambodia	Ratanakiri
+
+PH0801-C	Cambodia	Ratanakiri
+
+PH0802-C	Cambodia	Ratanakiri
+
+PH0805-C	Cambodia	Ratanakiri
+
+PH0807-C	Cambodia	Ratanakiri
+
+PH0810-C	Cambodia	Ratanakiri
+
+PH0811-C	Cambodia	Ratanakiri
+
+PH0813-C	Cambodia	Ratanakiri
+
+PH0814-Cx	Cambodia	Ratanakiri
+
+PH0815-C	Cambodia	Ratanakiri
+
+PH0816-Cx	Cambodia	Ratanakiri
+
+PH0817-C	Cambodia	Pailin
+
+PH0818-C	Cambodia	Pailin
+
+PH0819-C	Cambodia	Pailin
+
+PH0820-C	Cambodia	Pailin
+
+PH0821-C	Cambodia	Pailin
+
+PH0822-C	Cambodia	Pailin
+
+PH0823-C	Cambodia	Pailin
+
+PH0824-C	Cambodia	Pailin
+
+PH0825-C	Cambodia	Pailin
+
+PH0826-C	Cambodia	Pailin
+
+PH0828-C	Cambodia	Pailin
+
+PH0829-C	Cambodia	Pailin
+
+PH0830-C	Cambodia	Pailin
+
+PH0831-C	Cambodia	Pailin
+
+PH0832-C	Cambodia	Pailin
+
+PH0833-C	Cambodia	Pailin
+
+PH0834-C	Cambodia	Pailin
+
+PH0835-C	Cambodia	Pailin
+
+PH0836-C	Cambodia	Pailin
+
+PH0837-C	Cambodia	Pailin
+
+PH0838-C	Cambodia	Pailin
+
+PH0839-C	Cambodia	Pailin
+
+PH0840-C	Cambodia	Pailin
+
+PH0841-C	Cambodia	Pailin
+
+PH0842-C	Cambodia	Pailin
+
+PH0843-C	Cambodia	Pailin
+
+PH0844-C	Cambodia	Pailin
+
+PH0845-C	Cambodia	Pailin
+
+PH0846-C	Cambodia	Pailin
+
+PH0847-C	Cambodia	Pailin
+
+PH0848-C	Cambodia	Pailin
+
+PH0849-C	Cambodia	Pailin
+
+PH0850-C	Cambodia	Pailin
+
+PH0851-C	Cambodia	Pailin
+
+PH0852-C	Cambodia	Pailin
+
+PH0853-C	Cambodia	Pailin
+
+PH0854-C	Cambodia	Pailin
+
+PH0855-C	Cambodia	Pailin
+
+PH0856-C	Cambodia	Pailin
+
+PH0858-C	Cambodia	Pailin
+
+PH0860-Cx	Cambodia	Pursat
+
+PH0862-Cx	Cambodia	Pursat
+
+PH0863-Cx	Cambodia	Pursat
+
+PH0865-C	Cambodia	PreahVihear
+
+PH0866-C	Cambodia	PreahVihear
+
+PH0868-Cx	Cambodia	PreahVihear
+
+PH0870-C	Cambodia	PreahVihear
+
+PH0871-C	Cambodia	PreahVihear
+
+PH0872-C	Cambodia	PreahVihear
+
+PH0873-Cx	Cambodia	PreahVihear
+
+PH0874-Cx	Cambodia	PreahVihear
+
+PH0875-C	Cambodia	PreahVihear
+
+PH0876-C	Cambodia	PreahVihear
+
+PH0877-C	Cambodia	Ratanakiri
+
+PH0878-C	Cambodia	Ratanakiri
+
+PH0879-C	Cambodia	Ratanakiri
+
+PH0880-C	Cambodia	Ratanakiri
+
+PH0882-C	Cambodia	Ratanakiri
+
+PH0885-Cx	Cambodia	Ratanakiri
+
+PH0886-C	Cambodia	Pailin
+
+PH0887-C	Cambodia	Pailin
+
+PH0888-C	Cambodia	Pailin
+
+PH0889-C	Cambodia	Pailin
+
+PH0890-C	Cambodia	Pailin
+
+PH0891-Cx	Cambodia	Pailin
+
+PH0892-C	Cambodia	Pailin
+
+PH0893-C	Cambodia	Pailin
+
+PH0894-C	Cambodia	Pailin
+
+PH0895-C	Cambodia	Pailin
+
+PH0896-C	Cambodia	Pailin
+
+PH0898-C	Cambodia	Pailin
+
+PH0899-C	Cambodia	Pailin
+
+PH0900-C	Cambodia	Pailin
+
+PH0901-C	Cambodia	Pailin
+
+PH0902-C	Cambodia	Pailin
+
+PH0903-C	Cambodia	Pailin
+
+PH0904-C	Cambodia	Pailin
+
+PH0905-C	Cambodia	Pailin
+
+PH0906-C	Cambodia	Pailin
+
+PH0907-C	Cambodia	Pailin
+
+PH0908-C	Cambodia	Pailin
+
+PH0909-C	Cambodia	Pailin
+
+PH0910-C	Cambodia	Pailin
+
+PH0911-Cx	Cambodia	Pailin
+
+PH0912-C	Cambodia	Pailin
+
+PH0915-C	Cambodia	Pailin
+
+PH0916-C	Cambodia	Pailin
+
+PH0917-Cx	Cambodia	Pursat
+
+PH0918-Cx	Cambodia	Pursat
+
+PH0919-C	Cambodia	Pursat
+
+PH0920-Cx	Cambodia	Pursat
+
+PH0921-C	Cambodia	PreahVihear
+
+PH0923-Cx	Cambodia	PreahVihear
+
+PH0924-C	Cambodia	PreahVihear
+
+PH0925-C	Cambodia	PreahVihear
+
+PH0926-C	Cambodia	PreahVihear
+
+PH0927-C	Cambodia	PreahVihear
+
+PH0928-C	Cambodia	PreahVihear
+
+PH0929-C	Cambodia	PreahVihear
+
+PH0930-Cx	Cambodia	PreahVihear
+
+PH0931-C	Cambodia	PreahVihear
+
+PH0932-C	Cambodia	PreahVihear
+
+PH0933-C	Cambodia	Ratanakiri
+
+PH0935-C	Cambodia	Ratanakiri
+
+PH0936-C	Cambodia	Ratanakiri
+
+PH0937-C	Cambodia	Ratanakiri
+
+PH0938-C	Cambodia	Ratanakiri
+
+PH0939-C	Cambodia	Ratanakiri
+
+PH0940-Cx	Cambodia	Ratanakiri
+
+PH0941-C	Cambodia	Ratanakiri
+
+PH0942-Cx	Cambodia	Ratanakiri
+
+PH0976-C	Cambodia	PreahVihear
+
+PH0979-C	Cambodia	PreahVihear
+
+PH0980-C	Cambodia	PreahVihear
+
+PH0981-C	Cambodia	PreahVihear
+
+PH0982-C	Cambodia	PreahVihear
+
+PH0983-C	Cambodia	PreahVihear
+
+PH0984-C	Cambodia	PreahVihear
+
+PH0985-C	Cambodia	PreahVihear
+
+PH0986-C	Cambodia	Pailin
+
+PH0987-C	Cambodia	Pailin
+
+PH0989-C	Cambodia	Pailin
+
+PH0990-C	Cambodia	Pailin
+
+PH0991-C	Cambodia	Pailin
+
+PH0994-C	Cambodia	Pailin
+
+PH0996-C	Cambodia	Pailin
+
+PH0997-C	Cambodia	Pailin
+
+PH0999-C	Cambodia	Pailin
+
+PH1000-C	Cambodia	Pailin
+
+PH1001-C	Cambodia	Pailin
+
+PH1002-C	Cambodia	Pailin
+
+PH1003-C	Cambodia	Pailin
+
+PH1007-C	Cambodia	PreahVihear
+
+PH1136-C	Cambodia	Pailin
+
+PH1137-C	Cambodia	Pailin
+
+PH1138-C	Cambodia	Pailin
+
+PM0001-C	Mali	Kolle
+
+PM0002-C	Mali	Kolle
+
+PM0003-C	Mali	Kolle
+
+PM0004-C	Mali	Kolle
+
+PM0005-C	Mali	Kolle
+
+PM0006-C	Mali	Kolle
+
+PM0007-C	Mali	Kolle
+
+PM0008-C	Mali	Faladje
+
+PM0009-C	Mali	Faladje
+
+PM0014-C	Mali	Faladje
+
+PM0015-C	Mali	Faladje
+
+PM0017-C	Mali	Faladje
+
+PM0018-C	Mali	Faladje
+
+PM0019-C	Mali	Faladje
+
+PM0020-C	Mali	Faladje
+
+PM0021-C	Mali	Faladje
+
+PM0022-C	Mali	Faladje
+
+PM0023-C	Mali	Faladje
+
+PM0024-C	Mali	Faladje
+
+PM0025-C	Mali	Faladje
+
+PM0026-C	Mali	Faladje
+
+PM0029-C	Mali	Kolle
+
+PM0033-C	Mali	Kolle
+
+PM0034-C	Mali	Kolle
+
+PM0036-C	Mali	Kolle
+
+PM0037-C	Mali	Kolle
+
+PM0038-C	Mali	Kolle
+
+PM0039-C	Mali	Kolle
+
+PM0040-C	Mali	Kolle
+
+PM0041-C	Mali	Kolle
+
+PM0042-C	Mali	Kolle
+
+PM0043-C	Mali	Kolle
+
+PM0047-C	Mali	Kolle
+
+PM0048-C	Mali	Kolle
+
+PM0049-C	Mali	Kolle
+
+PM0051-C	Mali	Kolle
+
+PM0054-C	Mali	Kolle
+
+PM0058-C	Mali	Kolle
+
+PM0060-C	Mali	Kolle
+
+PM0062-C	Mali	Kolle
+
+PM0063-C	Mali	Kolle
+
+PM0064-C	Mali	Kolle
+
+PM0068-C	Mali	Kolle
+
+PM0070-C	Mali	Kolle
+
+PM0071-C	Mali	Kolle
+
+PM0072-C	Mali	Kolle
+
+PM0073-C	Mali	Kolle
+
+PM0074-C	Mali	Kolle
+
+PM0075-C	Mali	Kolle
+
+PM0076-C	Mali	Kolle
+
+PM0077-C	Mali	Kolle
+
+PM0078-C	Mali	Kolle
+
+PM0083-C	Mali	Kolle
+
+PM0084-C	Mali	Kolle
+
+PM0085-C	Mali	Kolle
+
+PM0086-C	Mali	Kolle
+
+PM0087-C	Mali	Kolle
+
+PM0089-C	Mali	Kolle
+
+PM0090-C	Mali	Kolle
+
+PM0093-C	Mali	Kolle
+
+PM0094-C	Mali	Kolle
+
+PM0096-C	Mali	Kolle
+
+PM0097-C	Mali	Kolle
+
+PM0098-C	Mali	Kolle
+
+PM0100-C	Mali	Kolle
+
+PM0103-C	Mali	Faladje
+
+PM0107-C	Mali	Faladje
+
+PM0108-C	Mali	Faladje
+
+PM0113-C	Mali	Faladje
+
+PM0114-C	Mali	Faladje
+
+PM0115-C	Mali	Faladje
+
+PM0117-C	Mali	Faladje
+
+PM0123-C	Mali	Faladje
+
+PM0124-C	Mali	Faladje
+
+PM0127-C	Mali	Faladje
+
+PM0129-C	Mali	Faladje
+
+PM0132-C	Mali	Faladje
+
+PM0133-C	Mali	Faladje
+
+PM0134-C	Mali	Faladje
+
+PM0136-C	Mali	Faladje
+
+PM0138-C	Mali	Faladje
+
+PM0139-C	Mali	Faladje
+
+PM0142-C	Mali	Faladje
+
+PM0144-C	Mali	Faladje
+
+PM0145-C	Mali	Faladje
+
+PM0146-C	Mali	Faladje
+
+PM0147-C	Mali	Faladje
+
+PM0151-C	Mali	Bandiagara
+
+PM0152-C	Mali	Bandiagara
+
+PM0153-C	Mali	Bandiagara
+
+PM0154-C	Mali	Bandiagara
+
+PM0156-C	Mali	Bandiagara
+
+PM0157-C	Mali	Bandiagara
+
+PM0159-C	Mali	Bandiagara
+
+PM0160-C	Mali	Bandiagara
+
+PM0161-C	Mali	Bandiagara
+
+PN0003_C	PNG	Madang
+
+PN0004_C	PNG	Madang
+
+PN0005_C	PNG	Madang
+
+PN0006_C	PNG	Madang
+
+PN0008_C	PNG	Madang
+
+PN0009_C	PNG	Madang
+
+PN0010_C	PNG	Madang
+
+PN0011_C	PNG	Madang
+
+PN0012_C	PNG	Madang
+
+PN0013_C	PNG	Madang
+
+PN0014_C	PNG	Madang
+
+PN0015_C	PNG	Madang
+
+PN0016_C	PNG	Madang
+
+PN0019_C	PNG	Madang
+
+PN0020_C	PNG	Madang
+
+PN0022_C	PNG	Madang
+
+PN0023_C	PNG	Madang
+
+PN0025_C	PNG	Madang
+
+PN0027_C	PNG	Madang
+
+PN0028_C	PNG	Madang
+
+PN0030_C	PNG	Madang
+
+PN0031_C	PNG	Madang
+
+PN0032_C	PNG	Madang
+
+PN0035_C	PNG	Madang
+
+PN0037_C	PNG	Madang
+
+PN0040_C	PNG	Madang
+
+PN0041_C	PNG	Madang
+
+PN0042_C	PNG	Madang
+
+PN0043_C	PNG	Madang
+
+PN0044_C	PNG	Madang
+
+PN0054_C	PNG	Madang
+
+PN0055_C	PNG	Madang
+
+PN0055_Cx	PNG	Madang
+
+PN0056_C	PNG	Madang
+
+PN0057_C	PNG	Madang
+
+PN0058_Cx	PNG	Madang
+
+PN0059_C	PNG	Madang
+
+PN0063_C	PNG	Maprik
+
+PN0073_C	PNG	Madang
+
+PN0074_C	PNG	Madang
+
+PN0075_C	PNG	Madang
+
+PN0077_C	PNG	Madang
+
+PN0078_C	PNG	Madang
+
+PN0079_C	PNG	Madang
+
+PN0081_C	PNG	Madang
+
+PN0082_C	PNG	Madang
+
+PN0083_C	PNG	Madang
+
+PN0084_C	PNG	Madang
+
+PN0085_C	PNG	Madang
+
+PN0086_C	PNG	Madang
+
+PN0087_C	PNG	Madang
+
+PN0089_C	PNG	Madang
+
+PN0090_C	PNG	Madang
+
+PN0091_C	PNG	Madang
+
+PN0097_C	PNG	Alotau
+
+PN0098_C	PNG	Alotau
+
+PN0099_C	PNG	Alotau
+
+PN0101_C	PNG	Alotau
+
+PN0102_C	PNG	Alotau
+
+PN0103_C	PNG	Alotau
+
+PN0104_C	PNG	Alotau
+
+PN0105_C	PNG	Alotau
+
+PN0107_C	PNG	Alotau
+
+PN0108_C	PNG	Alotau
+
+PN0109_C	PNG	Alotau
+
+PN0110_C	PNG	Alotau
+
+PN0111_C	PNG	Alotau
+
+PN0112_C	PNG	Alotau
+
+PN0113_C	PNG	Alotau
+
+PN0114_C	PNG	Alotau
+
+PN0115_C	PNG	Alotau
+
+PN0116_C	PNG	Alotau
+
+PN0117_C	PNG	Alotau
+
+PN0118_C	PNG	Alotau
+
+PN0119_C	PNG	Alotau
+
+PN0120_C	PNG	Alotau
+
+PN0121_C	PNG	Alotau
+
+PN0122_C	PNG	Alotau
+
+PN0124_C	PNG	Alotau
+
+PN0125_C	PNG	Maprik
+
+PN0126_C	PNG	Maprik
+
+PN0127_C	PNG	Maprik
+
+PN0128_C	PNG	Maprik
+
+PN0129_C	PNG	Maprik
+
+PN0130_C	PNG	Maprik
+
+PN0131_C	PNG	Maprik
+
+PN0133_C	PNG	Maprik
+
+PN0134_C	PNG	Maprik
+
+PN0135_C	PNG	Maprik
+
+PN0138_C	PNG	Maprik
+
+PN0140_C	PNG	Maprik
+
+PN0141_C	PNG	Maprik
+
+PN0142_C	PNG	Maprik
+
+PN0143_C	PNG	Maprik
+
+PN0145_C	PNG	Maprik
+
+PN0148_C	PNG	Maprik
+
+PN0149_C	PNG	Maprik
+
+PN0150_C	PNG	Maprik
+
+PN0151_C	PNG	Maprik
+
+PN0153_C	PNG	Maprik
+
+PN0154_C	PNG	Maprik
+
+PN0155_C	PNG	Maprik
+
+PN0156_C	PNG	Maprik
+
+PN0157_C	PNG	Maprik
+
+PN0159_C	PNG	Maprik
+
+PN0160_C	PNG	Maprik
+
+PN0161_C	PNG	Maprik
+
+PN0162_C	PNG	Maprik
+
+PN0163_C	PNG	Maprik
+
+PN0164_C	PNG	Maprik
+
+PN0165_C	PNG	Maprik
+
+PN0166_C	PNG	Maprik
+
+PN0167_C	PNG	Maprik
+
+PN0168_C	PNG	Maprik
+
+PN0169_C	PNG	Maprik
+
+PN0171_C	PNG	Maprik
+
+PN0172_C	PNG	Maprik
+
+PN0173_C	PNG	Alotau
+
+PN0176_C	PNG	Maprik
+
+PN0177_C	PNG	Alotau
+
+PN0178_C	PNG	Alotau
+
+PN0179_C	PNG	Maprik
+
+PN0180_C	PNG	Maprik
+
+PN0181_C	PNG	Maprik
+
+PN0182_C	PNG	Maprik
+
+PN0183_C	PNG	Alotau
+
+PN0184_C	PNG	Maprik
+
+PN0185_C	PNG	Maprik
+
+PN0186_C	PNG	Maprik
+
+PN0187_C	PNG	Alotau
+
+PN0188_C	PNG	Maprik
+
+PN0189_C	PNG	Maprik
+
+PN0190_C	PNG	Maprik
+
+PN0191_C	PNG	Maprik
+
+PN0192_C	PNG	Maprik
+
+PNG_DRS015A	PNG	Madang
+
+PNG_DRS034	PNG	Madang
+
+PNG_XIA508	PNG	Madang
+
+PNG_XPA028	PNG	Madang
+
+PNG_XUA001	PNG	Madang
+
+PNG_XUA011	PNG	Madang
+
+PNG_XUA012	PNG	Madang
+
+PNG_XUA020	PNG	Madang
+
+PNG_XUA030	PNG	Madang
+
+PNG_XUB001	PNG	Madang
+
+PNG_XUC006	PNG	Madang
+
+PNG_XUC009	PNG	Madang
+
+PNG_XUC021	PNG	Madang
+
+PNG_XUC022	PNG	Madang
+
+PR0114-C	Bangladesh	Ramu
+
+PR0115-C	Bangladesh	Ramu
+
+PR0116-C	Bangladesh	Ramu
+
+PR0117-C	Bangladesh	Ramu
+
+PR0118-C	Bangladesh	Ramu
+
+PR0119-C	Bangladesh	Ramu
+
+PR0120-C	Bangladesh	Ramu
+
+PR0121-C	Bangladesh	Ramu
+
+PR0122-C	Bangladesh	Ramu
+
+PR0123-C	Bangladesh	Ramu
+
+PR0124-C	Bangladesh	Ramu
+
+PR0125-C	Bangladesh	Ramu
+
+PR0126-C	Bangladesh	Ramu
+
+PR0127-C	Bangladesh	Ramu
+
+PR0128-C	Bangladesh	Ramu
+
+PR0129-C	Bangladesh	Ramu
+
+PR0130-C	Bangladesh	Ramu
+
+PR0131-C	Bangladesh	Ramu
+
+PR0132-C	Bangladesh	Ramu
+
+PR0133-C	Bangladesh	Ramu
+
+PR0134-C	Bangladesh	Ramu
+
+PR0135-C	Bangladesh	Ramu
+
+PR0136-C	Bangladesh	Ramu
+
+PR0137-C	Bangladesh	Ramu
+
+PR0138-C	Bangladesh	Ramu
+
+PR0141-C	Bangladesh	Ramu
+
+PR0142-C	Bangladesh	Ramu
+
+PR0143-C	Bangladesh	Ramu
+
+PR0144-C	Bangladesh	Ramu
+
+PR0145-C	Bangladesh	Ramu
+
+PR0146-C	Bangladesh	Ramu
+
+PR0147-C	Bangladesh	Ramu
+
+PR0148-C	Bangladesh	Ramu
+
+PR0149-C	Bangladesh	Ramu
+
+PR0150-C	Bangladesh	Ramu
+
+PR0151-C	Bangladesh	Ramu
+
+PR0153-C	Bangladesh	Ramu
+
+PR0154-C	Bangladesh	Ramu
+
+PR0155-C	Bangladesh	Ramu
+
+PR0156-C	Bangladesh	Ramu
+
+PR0157-C	Bangladesh	Ramu
+
+PR0158-C	Bangladesh	Ramu
+
+PR0159-C	Bangladesh	Ramu
+
+PR0160-C	Bangladesh	Ramu
+
+PR0161-C	Bangladesh	Ramu
+
+PR0162-C	Bangladesh	Ramu
+
+PR0163-C	Bangladesh	Ramu
+
+PR0164-C	Bangladesh	Ramu
+
+PR0165-C	Bangladesh	Ramu
+
+PR0166-C	Bangladesh	Ramu
+
+PT0001-CW	Malawi	Chikwawa
+
+PT0002-CW	Malawi	Chikwawa
+
+PT0003-CW	Malawi	Chikwawa
+
+PT0004-CW	Malawi	Chikwawa
+
+PT0005-CW	Malawi	Chikwawa
+
+PT0006-CW	Malawi	Chikwawa
+
+PT0007-CW	Malawi	Chikwawa
+
+PT0008-CW	Malawi	Chikwawa
+
+PT0009-CW	Malawi	Chikwawa
+
+PT0010-CW	Malawi	Chikwawa
+
+PT0012-C	Malawi	Chikwawa
+
+PT0013-CW	Malawi	Chikwawa
+
+PT0014-CW	Malawi	Chikwawa
+
+PT0015-CW	Malawi	Chikwawa
+
+PT0016-CW	Malawi	Chikwawa
+
+PT0017-CW	Malawi	Chikwawa
+
+PT0018-CW	Malawi	Chikwawa
+
+PT0019-CW	Malawi	Chikwawa
+
+PT0020-CW	Malawi	Chikwawa
+
+PT0021-CW	Malawi	Chikwawa
+
+PT0023-CW	Malawi	Chikwawa
+
+PT0027-C	Malawi	Chikwawa
+
+PT0029-C	Malawi	Chikwawa
+
+PT0031-C	Malawi	Chikwawa
+
+PT0032-C	Malawi	Chikwawa
+
+PT0034-C	Malawi	Chikwawa
+
+PT0035-C	Malawi	Chikwawa
+
+PT0038-C	Malawi	Chikwawa
+
+PT0038-Cx	Malawi	Chikwawa
+
+PT0039-C	Malawi	Chikwawa
+
+PT0040-C	Malawi	Chikwawa
+
+PT0041-C	Malawi	Chikwawa
+
+PT0042-C	Malawi	Chikwawa
+
+PT0043-C	Malawi	Chikwawa
+
+PT0044-C	Malawi	Chikwawa
+
+PT0046-C	Malawi	Chikwawa
+
+PT0047-C	Malawi	Chikwawa
+
+PT0048-C	Malawi	Chikwawa
+
+PT0051-C	Malawi	Chikwawa
+
+PT0052-C	Malawi	Chikwawa
+
+PT0053-C	Malawi	Chikwawa
+
+PT0054-C	Malawi	Chikwawa
+
+PT0055-C	Malawi	Chikwawa
+
+PT0056-C	Malawi	Chikwawa
+
+PT0057-C	Malawi	Chikwawa
+
+PT0058-C	Malawi	Chikwawa
+
+PT0059-C	Malawi	Chikwawa
+
+PT0060-C	Malawi	Chikwawa
+
+PT0061-C	Malawi	Chikwawa
+
+PT0062-C	Malawi	Chikwawa
+
+PT0063-C	Malawi	Chikwawa
+
+PT0064-C	Malawi	Chikwawa
+
+PT0065-C	Malawi	Chikwawa
+
+PT0066-C	Malawi	Chikwawa
+
+PT0067-C	Malawi	Chikwawa
+
+PT0068-C	Malawi	Chikwawa
+
+PT0069-C	Malawi	Chikwawa
+
+PT0070-C	Malawi	Chikwawa
+
+PT0071-C	Malawi	Chikwawa
+
+PT0072-C	Malawi	Chikwawa
+
+PT0073-C	Malawi	Chikwawa
+
+PT0074-C	Malawi	Chikwawa
+
+PT0075-C	Malawi	Chikwawa
+
+PT0076-C	Malawi	Chikwawa
+
+PT0077-C	Malawi	Chikwawa
+
+PT0077-Cx	Malawi	Chikwawa
+
+PT0078-C	Malawi	Chikwawa
+
+PT0078-Cx	Malawi	Chikwawa
+
+PT0079-C	Malawi	Chikwawa
+
+PT0080-C	Malawi	Chikwawa
+
+PT0081-C	Malawi	Chikwawa
+
+PT0082-C	Malawi	Chikwawa
+
+PT0083-C	Malawi	Chikwawa
+
+PT0084-C	Malawi	Chikwawa
+
+PT0085-C	Malawi	Chikwawa
+
+PT0086-C	Malawi	Chikwawa
+
+PT0087-C	Malawi	Chikwawa
+
+PT0088-C	Malawi	Chikwawa
+
+PT0089-C	Malawi	Chikwawa
+
+PT0090-C	Malawi	Chikwawa
+
+PT0091-C	Malawi	Chikwawa
+
+PT0092-C	Malawi	Chikwawa
+
+PT0094-C	Malawi	Chikwawa
+
+PT0095-C	Malawi	Chikwawa
+
+PT0096-C	Malawi	Chikwawa
+
+PT0097-C	Malawi	Chikwawa
+
+PT0098-C	Malawi	Chikwawa
+
+PT0099-C	Malawi	Chikwawa
+
+PT0100-C	Malawi	Chikwawa
+
+PT0101-C	Malawi	Chikwawa
+
+PT0102-C	Malawi	Chikwawa
+
+PT0103-C	Malawi	Chikwawa
+
+PT0104-C	Malawi	Chikwawa
+
+PT0105-C	Malawi	Chikwawa
+
+PT0106-C	Malawi	Chikwawa
+
+PT0107-C	Malawi	Chikwawa
+
+PT0108-C	Malawi	Chikwawa
+
+PT0109-C	Malawi	Chikwawa
+
+PT0111-C	Malawi	Chikwawa
+
+PT0112-C	Malawi	Chikwawa
+
+PT0113-C	Malawi	Chikwawa
+
+PT0114-C	Malawi	Chikwawa
+
+PT0115-C	Malawi	Chikwawa
+
+PT0117-C	Malawi	Chikwawa
+
+PT0118-C	Malawi	Chikwawa
+
+PT0119-C	Malawi	Chikwawa
+
+PT0120-C	Malawi	Chikwawa
+
+PT0120-Cx	Malawi	Chikwawa
+
+PT0121-C	Malawi	Chikwawa
+
+PT0122-C	Malawi	Chikwawa
+
+PT0123-C	Malawi	Chikwawa
+
+PT0124-C	Malawi	Chikwawa
+
+PT0125-C	Malawi	Chikwawa
+
+PT0126-C	Malawi	Chikwawa
+
+PT0127-C	Malawi	Chikwawa
+
+PT0129-C	Malawi	Chikwawa
+
+PT0130-C	Malawi	Chikwawa
+
+PT0131-C	Malawi	Chikwawa
+
+PT0132-C	Malawi	Chikwawa
+
+PT0133-C	Malawi	Chikwawa
+
+PT0134-C	Malawi	Chikwawa
+
+PT0135-C	Malawi	Chikwawa
+
+PT0136-C	Malawi	Chikwawa
+
+PT0137-C	Malawi	Chikwawa
+
+PT0138-C	Malawi	Chikwawa
+
+PT0139-C	Malawi	Chikwawa
+
+PT0140-C	Malawi	Chikwawa
+
+PT0141-C	Malawi	Chikwawa
+
+PT0142-C	Malawi	Chikwawa
+
+PT0143-C	Malawi	Chikwawa
+
+PT0144-C	Malawi	Chikwawa
+
+PT0145-C	Malawi	Chikwawa
+
+PT0146-C	Malawi	Chikwawa
+
+PT0147-C	Malawi	Chikwawa
+
+PT0148-C	Malawi	Chikwawa
+
+PT0149-C	Malawi	Chikwawa
+
+PT0150-C	Malawi	Chikwawa
+
+PT0152-C	Malawi	Chikwawa
+
+PT0154-C	Malawi	Chikwawa
+
+PT0154-Cx	Malawi	Chikwawa
+
+PT0155-C	Malawi	Chikwawa
+
+PT0156-C	Malawi	Chikwawa
+
+PT0157-C	Malawi	Chikwawa
+
+PT0158-C	Malawi	Chikwawa
+
+PT0160-C	Malawi	Chikwawa
+
+PT0161-C	Malawi	Chikwawa
+
+PT0162-C	Malawi	Chikwawa
+
+PT0165-C	Malawi	Chikwawa
+
+PT0166-C	Malawi	Chikwawa
+
+PT0168-C	Malawi	Chikwawa
+
+PT0169-C	Malawi	Chikwawa
+
+PT0170-C	Malawi	Chikwawa
+
+PT0171-C	Malawi	Chikwawa
+
+PT0172-C	Malawi	Chikwawa
+
+PT0173-C	Malawi	Chikwawa
+
+PT0174-C	Malawi	Zomba
+
+PT0175-C	Malawi	Zomba
+
+PT0176-C	Malawi	Zomba
+
+PT0177-C	Malawi	Zomba
+
+PT0178-C	Malawi	Zomba
+
+PT0179-C	Malawi	Zomba
+
+PT0180-C	Malawi	Zomba
+
+PT0181-C	Malawi	Zomba
+
+PT0182-C	Malawi	Zomba
+
+PT0183-C	Malawi	Zomba
+
+PT0184-C	Malawi	Zomba
+
+PT0187-C	Malawi	Chikwawa
+
+PT0187-Cx	Malawi	Chikwawa
+
+PT0188-C	Malawi	Chikwawa
+
+PT0188-Cx	Malawi	Chikwawa
+
+PT0189-C	Malawi	Chikwawa
+
+PT0189-Cx	Malawi	Chikwawa
+
+PT0190-C	Malawi	Chikwawa
+
+PT0190-Cx	Malawi	Chikwawa
+
+PT0191-C	Malawi	Chikwawa
+
+PT0191-Cx	Malawi	Chikwawa
+
+PT0192-C	Malawi	Chikwawa
+
+PT0192-Cx	Malawi	Chikwawa
+
+PT0193-C	Malawi	Chikwawa
+
+PT0193-Cx	Malawi	Chikwawa
+
+PT0194-C	Malawi	Chikwawa
+
+PT0194-Cx	Malawi	Chikwawa
+
+PT0195-C	Malawi	Chikwawa
+
+PT0195-Cx	Malawi	Chikwawa
+
+PT0196-C	Malawi	Chikwawa
+
+PT0196-Cx	Malawi	Chikwawa
+
+PT0197-C	Malawi	Chikwawa
+
+PT0197-Cx	Malawi	Chikwawa
+
+PT0198-C	Malawi	Chikwawa
+
+PT0198-Cx	Malawi	Chikwawa
+
+PT0199-C	Malawi	Chikwawa
+
+PT0199-Cx	Malawi	Chikwawa
+
+PT0200-C	Malawi	Chikwawa
+
+PT0200-Cx	Malawi	Chikwawa
+
+PT0201-C	Malawi	Chikwawa
+
+PT0201-Cx	Malawi	Chikwawa
+
+PT0202-C	Malawi	Chikwawa
+
+PT0202-Cx	Malawi	Chikwawa
+
+PT0203-C	Malawi	Chikwawa
+
+PT0203-Cx	Malawi	Chikwawa
+
+PT0204-C	Malawi	Chikwawa
+
+PT0204-Cx	Malawi	Chikwawa
+
+PT0205-C	Malawi	Chikwawa
+
+PT0205-Cx	Malawi	Chikwawa
+
+PT0206-C	Malawi	Chikwawa
+
+PT0206-Cx	Malawi	Chikwawa
+
+PT0207-C	Malawi	Chikwawa
+
+PT0207-Cx	Malawi	Chikwawa
+
+PT0208-C	Malawi	Chikwawa
+
+PT0208-Cx	Malawi	Chikwawa
+
+PT0209-C	Malawi	Chikwawa
+
+PT0209-Cx	Malawi	Chikwawa
+
+PT0210-C	Malawi	Chikwawa
+
+PT0210-Cx	Malawi	Chikwawa
+
+PT0211-C	Malawi	Chikwawa
+
+PT0211-Cx	Malawi	Chikwawa
+
+PT0212-C	Malawi	Chikwawa
+
+PT0212-Cx	Malawi	Chikwawa
+
+PT0213-C	Malawi	Chikwawa
+
+PT0213-Cx	Malawi	Chikwawa
+
+PT0214-C	Malawi	Chikwawa
+
+PT0214-Cx	Malawi	Chikwawa
+
+PT0215-C	Malawi	Chikwawa
+
+PT0215-Cx	Malawi	Chikwawa
+
+PT0216-C	Malawi	Chikwawa
+
+PT0216-Cx	Malawi	Chikwawa
+
+PT0217-C	Malawi	Chikwawa
+
+PT0217-Cx	Malawi	Chikwawa
+
+PT0218-C	Malawi	Chikwawa
+
+PT0218-Cx	Malawi	Chikwawa
+
+PT0219-C	Malawi	Chikwawa
+
+PT0219-Cx	Malawi	Chikwawa
+
+PT0220-C	Malawi	Chikwawa
+
+PT0220-Cx	Malawi	Chikwawa
+
+PT0221-C	Malawi	Chikwawa
+
+PT0221-Cx	Malawi	Chikwawa
+
+PT0222-C	Malawi	Chikwawa
+
+PT0222-Cx	Malawi	Chikwawa
+
+PT0223-C	Malawi	Chikwawa
+
+PT0223-Cx	Malawi	Chikwawa
+
+PT0224-C	Malawi	Chikwawa
+
+PT0224-Cx	Malawi	Chikwawa
+
+PT0225-C	Malawi	Chikwawa
+
+PT0225-Cx	Malawi	Chikwawa
+
+PT0226-C	Malawi	Chikwawa
+
+PT0226-Cx	Malawi	Chikwawa
+
+PT0227-C	Malawi	Chikwawa
+
+PT0227-Cx	Malawi	Chikwawa
+
+PT0228-C	Malawi	Chikwawa
+
+PT0228-Cx	Malawi	Chikwawa
+
+PT0229-C	Malawi	Chikwawa
+
+PT0230-C	Malawi	Chikwawa
+
+PT0230-Cx	Malawi	Chikwawa
+
+PT0231-C	Malawi	Chikwawa
+
+PT0231-Cx	Malawi	Chikwawa
+
+PT0232-C	Malawi	Chikwawa
+
+PT0232-Cx	Malawi	Chikwawa
+
+PT0233-C	Malawi	Chikwawa
+
+PT0233-Cx	Malawi	Chikwawa
+
+PT0234-C	Malawi	Chikwawa
+
+PT0234-Cx	Malawi	Chikwawa
+
+PT0235-C	Malawi	Chikwawa
+
+PT0235-Cx	Malawi	Chikwawa
+
+PT0236-C	Malawi	Chikwawa
+
+PT0236-Cx	Malawi	Chikwawa
+
+PT0237-C	Malawi	Chikwawa
+
+PT0237-Cx	Malawi	Chikwawa
+
+PT0238-C	Malawi	Chikwawa
+
+PT0238-Cx	Malawi	Chikwawa
+
+PT0239-C	Malawi	Chikwawa
+
+PT0239-Cx	Malawi	Chikwawa
+
+PT0240-C	Malawi	Chikwawa
+
+PT0240-Cx	Malawi	Chikwawa
+
+PT0241-C	Malawi	Chikwawa
+
+PT0241-Cx	Malawi	Chikwawa
+
+PT0242-C	Malawi	Chikwawa
+
+PT0242-Cx	Malawi	Chikwawa
+
+PT0243-C	Malawi	Chikwawa
+
+PT0243-Cx	Malawi	Chikwawa
+
+PT0244-C	Malawi	Chikwawa
+
+PT0244-Cx	Malawi	Chikwawa
+
+PT0246-C	Malawi	Chikwawa
+
+PT0246-Cx	Malawi	Chikwawa
+
+PT0247-C	Malawi	Chikwawa
+
+PT0247-Cx	Malawi	Chikwawa
+
+PT0248-C	Malawi	Chikwawa
+
+PT0248-Cx	Malawi	Chikwawa
+
+PT0249-C	Malawi	Chikwawa
+
+PT0249-Cx	Malawi	Chikwawa
+
+PT0250-C	Malawi	Chikwawa
+
+PT0250-Cx	Malawi	Chikwawa
+
+PT0252-C	Malawi	Chikwawa
+
+PT0252-Cx	Malawi	Chikwawa
+
+PT0253-C	Malawi	Chikwawa
+
+PT0253-Cx	Malawi	Chikwawa
+
+PT0254-C	Malawi	Chikwawa
+
+PT0254-Cx	Malawi	Chikwawa
+
+PT0255-C	Malawi	Chikwawa
+
+PT0255-Cx	Malawi	Chikwawa
+
+PT0256-C	Malawi	Chikwawa
+
+PT0256-Cx	Malawi	Chikwawa
+
+PT0257-C	Malawi	Chikwawa
+
+PT0257-Cx	Malawi	Chikwawa
+
+PT0258-C	Malawi	Chikwawa
+
+PT0258-Cx	Malawi	Chikwawa
+
+PT0260-C	Malawi	Chikwawa
+
+PT0260-Cx	Malawi	Chikwawa
+
+PT0261-C	Malawi	Chikwawa
+
+PT0261-Cx	Malawi	Chikwawa
+
+PT0262-C	Malawi	Chikwawa
+
+PT0262-Cx	Malawi	Chikwawa
+
+PT0263-C	Malawi	Chikwawa
+
+PT0263-Cx	Malawi	Chikwawa
+
+PT0264-C	Malawi	Chikwawa
+
+PT0264-Cx	Malawi	Chikwawa
+
+PT0266-C	Malawi	Chikwawa
+
+PT0269-C	Malawi	Chikwawa
+
+PT0270-C	Malawi	Chikwawa
+
+PT0270-Cx	Malawi	Chikwawa
+
+PT0271-C	Malawi	Chikwawa
+
+PT0271-Cx	Malawi	Chikwawa
+
+PT0273-C	Malawi	Chikwawa
+
+PT0274-C	Malawi	Chikwawa
+
+PT0274-Cx	Malawi	Chikwawa
+
+PT0275-C	Malawi	Chikwawa
+
+PT0276-C	Malawi	Chikwawa
+
+PT0276-Cx	Malawi	Chikwawa
+
+PT0277-C	Malawi	Chikwawa
+
+PT0279-C	Malawi	Zomba
+
+PT0279-Cx	Malawi	Zomba
+
+PT0280-C	Malawi	Zomba
+
+PT0280-Cx	Malawi	Zomba
+
+PT0281-C	Malawi	Zomba
+
+PT0282-C	Malawi	Zomba
+
+PT0282-Cx	Malawi	Zomba
+
+PT0283-C	Malawi	Zomba
+
+PT0284-C	Malawi	Zomba
+
+PT0284-Cx	Malawi	Zomba
+
+PT0285-C	Malawi	Zomba
+
+PT0286-C	Malawi	Zomba
+
+PT0287-C	Malawi	Zomba
+
+PT0289-C	Malawi	Zomba
+
+PT0290-C	Malawi	Zomba
+
+PT0290-Cx	Malawi	Zomba
+
+PT0291-C	Malawi	Zomba
+
+PT0291-Cx	Malawi	Zomba
+
+PT0292-C	Malawi	Zomba
+
+PT0292-Cx	Malawi	Zomba
+
+PT0294-C	Malawi	Zomba
+
+PT0294-Cx	Malawi	Zomba
+
+PT0295-C	Malawi	Zomba
+
+PT0295-Cx	Malawi	Zomba
+
+PT0296-C	Malawi	Zomba
+
+PT0297-C	Malawi	Zomba
+
+PT0297-Cx	Malawi	Zomba
+
+PT0298-C	Malawi	Zomba
+
+PT0298-Cx	Malawi	Zomba
+
+PT0299-C	Malawi	Zomba
+
+PT0299-Cx	Malawi	Zomba
+
+PT0300-C	Malawi	Zomba
+
+PT0300-Cx	Malawi	Zomba
+
+PT0301-C	Malawi	Zomba
+
+PT0301-Cx	Malawi	Zomba
+
+PT0302-C	Malawi	Zomba
+
+PT0302-Cx	Malawi	Zomba
+
+PT0303-C	Malawi	Zomba
+
+PT0303-Cx	Malawi	Zomba
+
+PT0304-C	Malawi	Zomba
+
+PT0304-Cx	Malawi	Zomba
+
+PV0243-Cx2	Vietnam	PhuocLong
+
+PV0244-C	Vietnam	PhuocLong
+
+PV0245-Cx2	Vietnam	PhuocLong
+
+PV0246-C	Vietnam	BuGiaMap
+
+PV0247-Cx2	Vietnam	PhuocLong
+
+PV0248-C	Vietnam	BuGiaMap
+
+PV0249-Cx	Vietnam	PhuocLong
+
+PV0250-C	Vietnam	BuGiaMap
+
+PV0251-C	Vietnam	BuGiaMap
+
+PV0252-C	Vietnam	PhuocLong
+
+PV0253-C	Vietnam	BuGiaMap
+
+PV0254-C	Vietnam	BuGiaMap
+
+PV0256-C	Vietnam	BuGiaMap
+
+PV0257-C	Vietnam	BuGiaMap
+
+PV0258-C	Vietnam	BuGiaMap
+
+PV0259-C	Vietnam	PhuocLong
+
+PV0261-C	Vietnam	BuGiaMap
+
+PV0262-C	Vietnam	BuGiaMap
+
+PV0263-C	Vietnam	BuGiaMap
+
+PV0264-C	Vietnam	PhuocLong
+
+PV0265-C	Vietnam	BuGiaMap
+
+PV0266-C	Vietnam	BuGiaMap
+
+PV0267-C	Vietnam	BuGiaMap
+
+PV0268-C	Vietnam	BuGiaMap
+
+PV0269-C	Vietnam	BuGiaMap
+
+PV0270-C	Vietnam	BuGiaMap
+
+PV0271-C	Vietnam	BuGiaMap
+
+PV0272-C	Vietnam	BuGiaMap
+
+PV0273-C	Vietnam	BuGiaMap
+
+PV0274-C	Vietnam	BuDang
+
+PV0276-C	Vietnam	PhuocLong
+
+PV0277-C	Vietnam	BuGiaMap
+
+PV0278-C	Vietnam	BuGiaMap
+
+PV0279-C	Vietnam	BuGiaMap
+
+PV0280-C	Vietnam	BuGiaMap
+
+PV0281-C	Vietnam	BuGiaMap
+
+PV0282-C	Vietnam	BuGiaMap
+
+PV0283-C	Vietnam	BuGiaMap
+
+PV0284-C	Vietnam	PhuocLong
+
+PV0285-C	Vietnam	PhuocLong
+
+PV0286-C	Vietnam	PhuocLong
+
+PV0287-C	Vietnam	PhuocLong
+
+PV0288-C	Vietnam	PhuocLong
+
+PV0289-C	Vietnam	BuGiaMap
+
+PV0290-C	Vietnam	PhuocLong
+
+PV0291-C	Vietnam	BuGiaMap
+
+PV0292-C	Vietnam	BuGiaMap
+
+PV0293-C	Vietnam	BuGiaMap
+
+PV0294-C	Vietnam	BuGiaMap
+
+PV0295-C	Vietnam	BuGiaMap
+
+PV0296-C	Vietnam	BuGiaMap
+
+PV0297-C	Vietnam	PhuocLong
+
+PV0298-C	Vietnam	BuGiaMap
+
+PV0299-C	Vietnam	BuGiaMap
+
+PV0300-C	Vietnam	PhuocLong
+
+PV0301-C	Vietnam	BuGiaMap
+
+PV0302-C	Vietnam	BuGiaMap
+
+PV0303-C	Vietnam	BuGiaMap
+
+PV0304-C	Vietnam	BuGiaMap
+
+PV0305-C	Vietnam	BuGiaMap
+
+PV0306-C	Vietnam	PhuocLong
+
+PV0308-Cx	Vietnam	PhuocLong
+
+PV0309-C	Vietnam	BuGiaMap
+
+PV0310-C	Vietnam	BuGiaMap
+
+PV0311-C	Vietnam	BuGiaMap
+
+PV0312-C	Vietnam	BuGiaMap
+
+PV0313-C	Vietnam	BuGiaMap
+
+PV0314-C	Vietnam	BuGiaMap
+
+PV0315-Cx	Vietnam	PhuocLong
+
+PV0317-C	Vietnam	BuGiaMap
+
+PV0318-C	Vietnam	BuGiaMap
+
+PV0319-C	Vietnam	BuGiaMap
+
+PV0320-C	Vietnam	BuGiaMap
+
+PV0321-C	Vietnam	BuGiaMap
+
+PV0322-C	Vietnam	BuGiaMap
+
+PV0323-C	Vietnam	BuGiaMap
+
+PV0324-C	Vietnam	BuGiaMap
+
+PV0325-C	Vietnam	BuGiaMap
+
+PV0326-C	Vietnam	BuGiaMap
+
+PV0327-C	Vietnam	BuGiaMap
+
+PV0328-C	Vietnam	BuGiaMap
+
+PV0329-C	Vietnam	BuGiaMap
+
+PV0330-C	Vietnam	BuGiaMap
+
+PV0331-Cx	Vietnam	PhuocLong
+
+PV0333-C	Vietnam	PhuocLong
+
+PV0335-C	Vietnam	BuGiaMap
+
+PV0336-C	Vietnam	BuGiaMap
+
+PV0337-C	Vietnam	PhuocLong
+
+PV0338-C	Vietnam	PhuocLong
+
+PV0339-C	Vietnam	PhuocLong
+
+PV0340-C	Vietnam	PhuocLong
+
+PV0343-C	Vietnam	PhuocLong
+
+PV0344-C	Vietnam	PhuocLong
+
+PV0345-C	Vietnam	PhuocLong
+
+PV0347-C	Vietnam	PhuocLong
+
+PV0355-C	Vietnam	PhuocLong
+
+PV0358-C	Vietnam	PhuocLong
+
+QC0164-C	Myanmar	BagoDivision
+
+QC0165-C	Myanmar	BagoDivision
+
+QC0166-C	Myanmar	BagoDivision
+
+QC0167-C	Myanmar	BagoDivision
+
+QC0168-C	Myanmar	BagoDivision
+
+QC0169-C	Myanmar	BagoDivision
+
+QC0170-C	Myanmar	BagoDivision
+
+QC0171-C	Myanmar	BagoDivision
+
+QC0172-C	Myanmar	BagoDivision
+
+QC0173-C	Myanmar	BagoDivision
+
+QC0174-C	Myanmar	BagoDivision
+
+QC0175-C	Myanmar	BagoDivision
+
+QC0176-C	Myanmar	BagoDivision
+
+QC0177-C	Myanmar	BagoDivision
+
+QC0178-C	Myanmar	BagoDivision
+
+QC0179-C	Myanmar	BagoDivision
+
+QC0180-C	Myanmar	BagoDivision
+
+QC0182-C	Myanmar	BagoDivision
+
+QC0183-C	Myanmar	BagoDivision
+
+QC0184-C	Myanmar	BagoDivision
+
+QC0185-C	Myanmar	BagoDivision
+
+QC0186-C	Myanmar	BagoDivision
+
+QC0187-C	Myanmar	BagoDivision
+
+QC0188-C	Myanmar	BagoDivision
+
+QC0189-C	Myanmar	BagoDivision
+
+QC0193-C	Myanmar	BagoDivision
+
+QC0194-C	Myanmar	BagoDivision
+
+QC0195-C	Myanmar	BagoDivision
+
+QC0196-C	Myanmar	BagoDivision
+
+QC0198-C	Myanmar	BagoDivision
+
+QC0199-C	Myanmar	BagoDivision
+
+QC0200-C	Myanmar	BagoDivision
+
+QC0201-C	Myanmar	BagoDivision
+
+QC0204-C	Myanmar	BagoDivision
+
+QC0205-C	Myanmar	BagoDivision
+
+QC0206-C	Myanmar	BagoDivision
+
+QC0207-C	Myanmar	BagoDivision
+
+QC0209-C	Myanmar	BagoDivision
+
+QC0210-C	Myanmar	BagoDivision
+
+QC0211-C	Myanmar	BagoDivision
+
+QC0212-C	Myanmar	BagoDivision
+
+QC0213-C	Myanmar	BagoDivision
+
+QC0214-C	Myanmar	BagoDivision
+
+QC0215-C	Myanmar	BagoDivision
+
+QC0219-C	Myanmar	BagoDivision
+
+QC0220-C	Myanmar	BagoDivision
+
+QC0221-C	Myanmar	BagoDivision
+
+QC0222-C	Myanmar	BagoDivision
+
+QC0223-C	Myanmar	BagoDivision
+
+QC0225-C	Myanmar	BagoDivision
+
+QC0227-C	Myanmar	BagoDivision
+
+QC0228-C	Myanmar	BagoDivision
+
+QC0229-C	Myanmar	BagoDivision
+
+QC0230-C	Myanmar	BagoDivision
+
+QC0231-C	Myanmar	BagoDivision
+
+QC0232-C	Myanmar	BagoDivision
+
+QC0233-C	Myanmar	BagoDivision
+
+QC0235-C	Myanmar	BagoDivision
+
+QC0239-C	Myanmar	BagoDivision
+
+QC0242-C	Myanmar	BagoDivision
+
+QE0392-C	Laos	Attapeu
+
+QE0393-Cx	Laos	Attapeu
+
+QE0395-C	Laos	Attapeu
+
+QE0396-C	Laos	Attapeu
+
+QE0397-C	Laos	Attapeu
+
+QE0398-C	Laos	Attapeu
+
+QE0399-C	Laos	Attapeu
+
+QE0400-C	Laos	Attapeu
+
+QE0401-C	Laos	Attapeu
+
+QE0402-C	Laos	Attapeu
+
+QE0403-Cx	Laos	Attapeu
+
+QE0404-C	Laos	Attapeu
+
+QE0405-Cx	Laos	Attapeu
+
+QE0407-C	Laos	Attapeu
+
+QE0408-C	Laos	Attapeu
+
+QE0409-C	Laos	Attapeu
+
+QE0410-C	Laos	Attapeu
+
+QE0411-C	Laos	Attapeu
+
+QE0412-C	Laos	Attapeu
+
+QE0413-C	Laos	Attapeu
+
+QE0414-C	Laos	Attapeu
+
+QE0415-C	Laos	Attapeu
+
+QE0416-C	Laos	Attapeu
+
+QE0417-C	Laos	Attapeu
+
+QE0418-C	Laos	Attapeu
+
+QE0419-C	Laos	Attapeu
+
+QE0420-C	Laos	Attapeu
+
+QE0421-C	Laos	Attapeu
+
+QE0422-C	Laos	Attapeu
+
+QE0423-C	Laos	Attapeu
+
+QE0424-C	Laos	Attapeu
+
+QE0425-C	Laos	Attapeu
+
+QE0426-C	Laos	Attapeu
+
+QE0427-C	Laos	Attapeu
+
+QE0428-C	Laos	Attapeu
+
+QE0429-C	Laos	Attapeu
+
+QE0430-C	Laos	Attapeu
+
+QE0431-C	Laos	Attapeu
+
+QE0432-C	Laos	Attapeu
+
+QE0433-C	Laos	Attapeu
+
+QE0434-C	Laos	Attapeu
+
+QE0435-C	Laos	Attapeu
+
+QE0436-C	Laos	Attapeu
+
+QE0437-C	Laos	Attapeu
+
+QE0438-C	Laos	Attapeu
+
+QE0439-C	Laos	Attapeu
+
+QE0440-C	Laos	Attapeu
+
+QE0441-C	Laos	Attapeu
+
+QE0442-C	Laos	Attapeu
+
+QE0443-C	Laos	Attapeu
+
+QE0444-C	Laos	Attapeu
+
+QE0445-C	Laos	Attapeu
+
+QE0446-C	Laos	Attapeu
+
+QE0447-C	Laos	Attapeu
+
+QE0448-C	Laos	Attapeu
+
+QE0449-C	Laos	Attapeu
+
+QE0451-C	Laos	Attapeu
+
+QE0452-C	Laos	Attapeu
+
+QE0453-C	Laos	Attapeu
+
+QE0454-C	Laos	Attapeu
+
+QE0455-C	Laos	Attapeu
+
+QE0456-C	Laos	Attapeu
+
+QE0457-C	Laos	Attapeu
+
+QE0458-C	Laos	Attapeu
+
+QE0459-C	Laos	Attapeu
+
+QE0460-C	Laos	Attapeu
+
+QE0461-C	Laos	Attapeu
+
+QE0463-C	Laos	Attapeu
+
+QE0464-C	Laos	Attapeu
+
+QE0465-C	Laos	Attapeu
+
+QE0466-C	Laos	Attapeu
+
+QE0467-C	Laos	Attapeu
+
+QE0468-C	Laos	Attapeu
+
+QE0469-C	Laos	Attapeu
+
+QE0470-C	Laos	Attapeu
+
+QE0471-C	Laos	Attapeu
+
+QE0472-C	Laos	Attapeu
+
+QE0473-C	Laos	Attapeu
+
+QE0474-C	Laos	Attapeu
+
+QE0475-C	Laos	Attapeu
+
+QE0476-C	Laos	Attapeu
+
+QE0478-C	Laos	Attapeu
+
+QE0479-C	Laos	Attapeu
+
+QE0481-C	Laos	Attapeu
+
+QE0483-C	Laos	Attapeu
+
+QG0182-C	DRoftheCongo	Kinshasa
+
+QG0183-C	DRoftheCongo	Kinshasa
+
+QG0184-C	DRoftheCongo	Kinshasa
+
+QG0185-C	DRoftheCongo	Kinshasa
+
+QG0186-C	DRoftheCongo	Kinshasa
+
+QG0187-C	DRoftheCongo	Kinshasa
+
+QG0188-C	DRoftheCongo	Kinshasa
+
+QG0189-C	DRoftheCongo	Kinshasa
+
+QG0190-C	DRoftheCongo	Kinshasa
+
+QG0191-C	DRoftheCongo	Kinshasa
+
+QG0192-C	DRoftheCongo	Kinshasa
+
+QG0193-C	DRoftheCongo	Kinshasa
+
+QG0194-C	DRoftheCongo	Kinshasa
+
+QG0195-C	DRoftheCongo	Kinshasa
+
+QG0196-C	DRoftheCongo	Kinshasa
+
+QG0197-C	DRoftheCongo	Kinshasa
+
+QG0198-C	DRoftheCongo	Kinshasa
+
+QG0200-C	DRoftheCongo	Kinshasa
+
+QG0201-C	DRoftheCongo	Kinshasa
+
+QG0202-C	DRoftheCongo	Kinshasa
+
+QG0203-C	DRoftheCongo	Kinshasa
+
+QG0204-C	DRoftheCongo	Kinshasa
+
+QG0205-C	DRoftheCongo	Kinshasa
+
+QG0206-C	DRoftheCongo	Kinshasa
+
+QG0207-C	DRoftheCongo	Kinshasa
+
+QG0208-C	DRoftheCongo	Kinshasa
+
+QG0209-C	DRoftheCongo	Kinshasa
+
+QG0210-C	DRoftheCongo	Kinshasa
+
+QG0211-C	DRoftheCongo	Kinshasa
+
+QG0212-C	DRoftheCongo	Kinshasa
+
+QG0213-C	DRoftheCongo	Kinshasa
+
+QG0214-C	DRoftheCongo	Kinshasa
+
+QG0215-C	DRoftheCongo	Kinshasa
+
+QG0216-C	DRoftheCongo	Kinshasa
+
+QG0217-C	DRoftheCongo	Kinshasa
+
+QG0218-C	DRoftheCongo	Kinshasa
+
+QG0219-C	DRoftheCongo	Kinshasa
+
+QG0220-C	DRoftheCongo	Kinshasa
+
+QG0221-C	DRoftheCongo	Kinshasa
+
+QG0223-C	DRoftheCongo	Kinshasa
+
+QG0224-C	DRoftheCongo	Kinshasa
+
+QG0225-C	DRoftheCongo	Kinshasa
+
+QG0226-C	DRoftheCongo	Kinshasa
+
+QG0228-C	DRoftheCongo	Kinshasa
+
+QG0229-C	DRoftheCongo	Kinshasa
+
+QG0230-C	DRoftheCongo	Kinshasa
+
+QG0231-C	DRoftheCongo	Kinshasa
+
+QG0232-C	DRoftheCongo	Kinshasa
+
+QG0233-C	DRoftheCongo	Kinshasa
+
+QG0234-C	DRoftheCongo	Kinshasa
+
+QG0235-C	DRoftheCongo	Kinshasa
+
+QG0236-C	DRoftheCongo	Kinshasa
+
+QG0237-C	DRoftheCongo	Kinshasa
+
+QG0238-C	DRoftheCongo	Kinshasa
+
+QG0239-C	DRoftheCongo	Kinshasa
+
+QG0240-C	DRoftheCongo	Kinshasa
+
+QG0241-C	DRoftheCongo	Kinshasa
+
+QG0243-C	DRoftheCongo	Kinshasa
+
+QG0244-C	DRoftheCongo	Kinshasa
+
+QG0245-C	DRoftheCongo	Kinshasa
+
+QG0246-C	DRoftheCongo	Kinshasa
+
+QG0247-C	DRoftheCongo	Kinshasa
+
+QG0248-C	DRoftheCongo	Kinshasa
+
+QG0249-C	DRoftheCongo	Kinshasa
+
+QG0250-C	DRoftheCongo	Kinshasa
+
+QG0251-C	DRoftheCongo	Kinshasa
+
+QG0252-C	DRoftheCongo	Kinshasa
+
+QG0253-C	DRoftheCongo	Kinshasa
+
+QG0254-C	DRoftheCongo	Kinshasa
+
+QG0255-C	DRoftheCongo	Kinshasa
+
+QG0256-C	DRoftheCongo	Kinshasa
+
+QG0257-C	DRoftheCongo	Kinshasa
+
+QG0258-C	DRoftheCongo	Kinshasa
+
+QG0259-C	DRoftheCongo	Kinshasa
+
+QG0260-C	DRoftheCongo	Kinshasa
+
+QG0261-C	DRoftheCongo	Kinshasa
+
+QG0262-C	DRoftheCongo	Kinshasa
+
+QG0263-C	DRoftheCongo	Kinshasa
+
+QG0264-C	DRoftheCongo	Kinshasa
+
+QG0265-C	DRoftheCongo	Kinshasa
+
+QG0266-C	DRoftheCongo	Kinshasa
+
+QG0267-C	DRoftheCongo	Kinshasa
+
+QG0268-C	DRoftheCongo	Kinshasa
+
+QG0269-C	DRoftheCongo	Kinshasa
+
+QG0270-C	DRoftheCongo	Kinshasa
+
+QG0271-C	DRoftheCongo	Kinshasa
+
+QG0273-C	DRoftheCongo	Kinshasa
+
+QG0274-C	DRoftheCongo	Kinshasa
+
+QG0275-C	DRoftheCongo	Kinshasa
+
+QG0276-C	DRoftheCongo	Kinshasa
+
+QG0277-C	DRoftheCongo	Kinshasa
+
+QG0278-C	DRoftheCongo	Kinshasa
+
+QG0279-C	DRoftheCongo	Kinshasa
+
+QG0280-C	DRoftheCongo	Kinshasa
+
+QG0281-C	DRoftheCongo	Kinshasa
+
+QG0282-C	DRoftheCongo	Kinshasa
+
+QG0284-C	DRoftheCongo	Kinshasa
+
+QG0285-C	DRoftheCongo	Kinshasa
+
+QG0286-C	DRoftheCongo	Kinshasa
+
+QG0287-C	DRoftheCongo	Kinshasa
+
+QG0288-C	DRoftheCongo	Kinshasa
+
+QG0289-C	DRoftheCongo	Kinshasa
+
+QG0290-C	DRoftheCongo	Kinshasa
+
+QG0291-C	DRoftheCongo	Kinshasa
+
+QG0292-C	DRoftheCongo	Kinshasa
+
+QG0293-C	DRoftheCongo	Kinshasa
+
+QG0294-C	DRoftheCongo	Kinshasa
+
+QG0295-C	DRoftheCongo	Kinshasa
+
+QG0296-C	DRoftheCongo	Kinshasa
+
+QG0297-C	DRoftheCongo	Kinshasa
+
+QG0298-C	DRoftheCongo	Kinshasa
+
+QG0299-C	DRoftheCongo	Kinshasa
+
+QG0300-C	DRoftheCongo	Kinshasa
+
+QJ0001-C	Nigeria	Ilorin
+
+QJ0002-C	Nigeria	Ilorin
+
+QJ0003-C	Nigeria	Ilorin
+
+QJ0004-C	Nigeria	Ilorin
+
+QJ0005-C	Nigeria	Ilorin
+
+SenP005-02	Senegal	Thies
+
+SenP008-04	Senegal	Thies
+
+SenP011-02	Senegal	Thies
+
+SenP019-04	Senegal	Thies
+
+SenP027-02	Senegal	Thies
+
+SenP031-01	Senegal	Thies
+
+SenP051-02	Senegal	Thies
+
+SenP060-02	Senegal	Thies
+
+SenT001-08	Senegal	Thies
+
+SenT001-11	Senegal	Thies
+
+SenT002-07	Senegal	Thies
+
+SenT002-09	Senegal	Thies
+
+SenT004-10	Senegal	Thies
+
+SenT008-10	Senegal	Thies
+
+SenT009-10	Senegal	Thies
+
+SenT011-09	Senegal	Thies
+
+SenT013-11	Senegal	Thies
+
+SenT015-09	Senegal	Thies
+
+SenT015-11	Senegal	Thies
+
+SenT021-09	Senegal	Thies
+
+SenT022-09	Senegal	Thies
+
+SenT022-11	Senegal	Thies
+
+SenT024-10	Senegal	Thies
+
+SenT025-10	Senegal	Thies
+
+SenT026-10	Senegal	Thies
+
+SenT029-09	Senegal	Thies
+
+SenT030-11	Senegal	Thies
+
+SenT032-09	Senegal	Thies
+
+SenT033-08	Senegal	Thies
+
+SenT033-09	Senegal	Thies
+
+SenT036-10	Senegal	Thies
+
+SenT037-09	Senegal	Thies
+
+SenT040-11	Senegal	Thies
+
+SenT042-09	Senegal	Thies
+
+SenT044-10	Senegal	Thies
+
+SenT044-11	Senegal	Thies
+
+SenT045-10	Senegal	Thies
+
+SenT045-11	Senegal	Thies
+
+SenT046-10	Senegal	Thies
+
+SenT046-11	Senegal	Thies
+
+SenT047-09	Senegal	Thies
+
+SenT052-11	Senegal	Thies
+
+SenT053-11	Senegal	Thies
+
+SenT055-11	Senegal	Thies
+
+SenT058-10	Senegal	Thies
+
+SenT058-11	Senegal	Thies
+
+SenT061-09	Senegal	Thies
+
+SenT063-07	Senegal	Thies
+
+SenT064-10	Senegal	Thies
+
+SenT066-08	Senegal	Thies
+
+SenT067-09	Senegal	Thies
+
+SenT067-11	Senegal	Thies
+
+SenT069-11	Senegal	Thies
+
+SenT072-11	Senegal	Thies
+
+SenT074-10	Senegal	Thies
+
+SenT074-11	Senegal	Thies
+
+SenT075-10	Senegal	Thies
+
+SenT077-08	Senegal	Thies
+
+SenT077-11	Senegal	Thies
+
+SenT078-10	Senegal	Thies
+
+SenT080-10	Senegal	Thies
+
+SenT081-10	Senegal	Thies
+
+SenT082-10	Senegal	Thies
+
+SenT084-09	Senegal	Thies
+
+SenT084-10	Senegal	Thies
+
+SenT084-11	Senegal	Thies
+
+SenT085-10	Senegal	Thies
+
+SenT086-09	Senegal	Thies
+
+SenT086-10	Senegal	Thies
+
+SenT087-08	Senegal	Thies
+
+SenT087-09	Senegal	Thies
+
+SenT087-11	Senegal	Thies
+
+SenT090-09	Senegal	Thies
+
+SenT092-08	Senegal	Thies
+
+SenT094-09	Senegal	Thies
+
+SenT097-09	Senegal	Thies
+
+SenT097-11	Senegal	Thies
+
+SenT102-08	Senegal	Thies
+
+SenT104-07	Senegal	Thies
+
+SenT105-07	Senegal	Thies
+
+SenT106-08	Senegal	Thies
+
+SenT110-09	Senegal	Thies
+
+SenT111-09	Senegal	Thies
+
+SenT112-09	Senegal	Thies
+
+SenT113-09	Senegal	Thies
+
+SenT114-09	Senegal	Thies
+
+SenT117-08	Senegal	Thies
+
+SenT119-09	Senegal	Thies
+
+SenT120-11	Senegal	Thies
+
+SenT123-09	Senegal	Thies
+
+SenT124-10	Senegal	Thies
+
+SenT124-11	Senegal	Thies
+
+SenT125-11	Senegal	Thies
+
+SenT127-09	Senegal	Thies
+
+SenT128-08	Senegal	Thies
+
+SenT128-09	Senegal	Thies
+
+SenT129-11	Senegal	Thies
+
+SenT130-09	Senegal	Thies
+
+SenT130-11	Senegal	Thies
+
+SenT133-11	Senegal	Thies
+
+SenT135-09	Senegal	Thies
+
+SenT136-09	Senegal	Thies
+
+SenT136-11	Senegal	Thies
+
+SenT137-09	Senegal	Thies
+
+SenT138-11	Senegal	Thies
+
+SenT139-11	Senegal	Thies
+
+SenT140-11	Senegal	Thies
+
+SenT142-09	Senegal	Thies
+
+SenT142-11	Senegal	Thies
+
+SenT143-09	Senegal	Thies
+
+SenT148-09	Senegal	Thies
+
+SenT149-09	Senegal	Thies
+
+SenT150-09	Senegal	Thies
+
+SenT151-08	Senegal	Thies
+
+SenT151-09	Senegal	Thies
+
+SenT165-09	Senegal	Thies
+
+SenT166-09	Senegal	Thies
+
+SenT170-08	Senegal	Thies
+
+SenT179-08	Senegal	Thies
+
+SenT180-08	Senegal	Thies
+
+SenT181-10	Senegal	Thies
+
+SenT184-09	Senegal	Thies
+
+SenT185-10	Senegal	Thies
+
+SenT187-09	Senegal	Thies
+
+SenT190-09	Senegal	Thies
+
+SenT224-08	Senegal	Thies
+
+SenT227-08	Senegal	Thies
+
+SenT230-08	Senegal	Thies
+
+SenT231-08	Senegal	Thies
+
+SenT232-08	Senegal	Thies
+
+SenT233-08	Senegal	Thies
+
+SenT235-08	Senegal	Thies
+
+SenT236-08	Senegal	Thies
+
+SenV034-04	Senegal	Velingara
+
+SenV035-04	Senegal	Velingara
+
+SenV042-05	Senegal	Velingara
+
+SenV092-05	Senegal	Velingara
