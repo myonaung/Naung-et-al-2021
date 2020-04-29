@@ -1,5 +1,5 @@
 ---
-title: "pf3k_drug_resis_markers"
+title: "Pf3k PNG Gene of Interest"
 author: "Myo Naung"
 date: "09/12/2019"
 output: html_document
@@ -23,7 +23,7 @@ showfile.gds(closeall = TRUE)
 
 
 ```{r data}
-pf3kv5 <- seqOpen("/wehisan/general/academic/lab_barry/Somya/Pf3k_PNG/pf3kv5_with_PNG.pass.snps.snpeff_ann.core.gds", readonly = TRUE)
+pf3kv5 <- seqOpen("filepath/WGS_GATK_Processed_and_SNPeff_annotated_file.gds", readonly = TRUE)
 
 # geographic metadata
 metadata <- read.delim("/wehisan/general/academic/lab_barry/Somya/Pf3k_PNG/metadata/pf3k_release_5_png_metadata_collated.txt",

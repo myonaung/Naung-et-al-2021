@@ -1,0 +1,12 @@
+Instructions
+
+1. Set relevant file path in the pf3k_antigen.Rmd.
+
+2. Obtain CDS Reference sequence in FastA format.
+
+3. Input relevant information to antigen_targets.txt according to described format. 
+
+4. Run analysis using run_analysis.sh script.
+
+The contents of these repo are custom-tailored to our setup in R 3.5.2 environment and workflow 
+(i.e. I make no promises that they may work for you), but I made them publicly available.

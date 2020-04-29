@@ -1,0 +1,3 @@
+Symbol	chr	start	end	Product Description	Gene ID	dir
+GAMA	Pf3D7_08_v3	1237285	1239501	GPI_anchored_micronemal_antigen	PF3D7_0828800	NEGATIVE
+
