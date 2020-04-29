@@ -1,5 +1,6 @@
+Instruction
 
-#instruction
+
 1. clean_fasta.sh remove minor clones and built proper folder for each gene of interest for downstream analyses.
 
 2. removeNfromfas.py program is a python program depends on Biopython to remove ambiguous bases from resulting fasta file.
