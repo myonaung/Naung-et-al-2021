@@ -1,6 +1,6 @@
 Instructions
 
-1. Set relevant file path in the pf3k_antigen.Rmd.
+1. Set relevant file path in the pf3k_antigen.Rmd including functionally annotated with SNPeff (http://snpeff.sourceforge.net/) and hard filtering as shown in manuscripts (figure S1). 
 
 2. Obtain CDS Reference sequence in FastA format.
 
