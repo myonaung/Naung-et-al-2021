@@ -10,4 +10,6 @@ Instruction
 
 4. fasta.sh seperate each gene into different geographical region based on MalariaGen v5 annotation. (using input from processed_metadata.txt)
 
+5. vcf to gds conversion which was used in our Haplotypes phasing. This is to be run using  R environment. 
+
 This is working well in unix environment, but may require changes depending on OS you are using. 
