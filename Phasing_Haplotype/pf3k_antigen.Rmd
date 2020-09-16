@@ -1,6 +1,6 @@
 ---
 title: "Pf3k PNG Gene of Interest"
-author: "Somya Menhra and Myo Naung" 
+author: "Somya Menhra (creator)" 
 date: "09/12/2019"
 output: html_document
 ---
@@ -203,10 +203,13 @@ moi1_sequences <- function(variants, samples, mgen, min_depth) {
   n_sample = length(samples)
   n_var = length(variants)
   
-  seqs <- gen_bin <- setNames(data.frame(matrix(ncol=n_sample, nrow=n_var), 
-                              row.names=variants), samples)
-
+  seqResetFilter(mgen)
   seqSetFilter(mgen, variant.id=variants, sample.id=samples)
+  
+  seqs <- gen_bin <- setNames(data.frame(matrix(ncol=n_sample, nrow=n_var), 
+                                         row.names=seqGetData(mgen, "variant.id")), 
+                              seqGetData(mgen, "sample.id"))
+  
 
   # extract genotypes (0=ref, 1,2... are alt alleles)
   gen <- seqGetData(mgen, "genotype") %>% matrix(ncol=n_var, nrow=n_sample)
