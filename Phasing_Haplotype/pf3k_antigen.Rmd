@@ -202,9 +202,13 @@ moi2_sequences <- function(variants, samples, haplotypes, min_prop_thresh) {
 moi1_sequences <- function(variants, samples, mgen, min_depth) {
   n_sample = length(samples)
   n_var = length(variants)
+  seqResetFilter(mgen)
+  seqSetFilter(mgen, variant.id=variants, sample.id=samples)
   
   seqs <- gen_bin <- setNames(data.frame(matrix(ncol=n_sample, nrow=n_var), 
-                              row.names=variants), samples)
+                                         row.names=seqGetData(mgen, "variant.id")), 
+                              seqGetData(mgen, "sample.id"))
+  
 
   seqSetFilter(mgen, variant.id=variants, sample.id=samples)
 
