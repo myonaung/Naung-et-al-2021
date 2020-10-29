@@ -1,7 +1,7 @@
 ---
 title: "Pf3k PNG Gene of Interest"
 author: "Somya Menhra and Myo Naung" 
-date: "09/12/2019"
+date: "29/10/2020"
 output: html_document
 ---
 
@@ -103,12 +103,13 @@ MINOR_PROP_THRESH <- 0.4 # we differentiate the major and minor haplotypes by
 # loci with read depth < min_depth are filtered out
 moi2_haplotypes <- function(var_subset, sample_subset, mgen, 
                             het_thresh, min_depth) {
-  
+  seqResetFilter(mgen)
   seqSetFilter(mgen, variant.id=var_subset, sample.id=sample_subset)
-  
   haplotypes <- list()
-  sample_hap <- data.frame(variant.id=var_subset, maj_clone=NA, min_clone=NA,
-                           maj_clone_bin=NA, min_clone_bin=NA, maf=NA, baf=NA, het=FALSE)
+  sample_hap <- data.frame(variant.id=seqGetData(mgen, "variant.id"),
+                           maj_clone=NA, min_clone=NA,
+                           maj_clone_bin=NA, min_clone_bin=NA, maf=NA, baf=NA,
+                           het=FALSE)
   
   # initialise list of haplotypes, one df for each sample
   for (sample in sample_subset) {
