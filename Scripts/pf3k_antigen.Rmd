@@ -69,7 +69,7 @@ MINOR_PROP_THRESH <- 0.4 # we differentiate the major and minor haplotypes by
 # loci with read depth < min_depth are filtered out
 moi2_haplotypes <- function(var_subset, sample_subset, mgen, 
                             het_thresh, min_depth) {
-  
+  seqResetFilter(mgen)
   seqSetFilter(mgen, variant.id=var_subset, sample.id=sample_subset)
   
   haplotypes <- list()
