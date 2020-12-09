@@ -10,5 +10,4 @@ Instructions
 
 5. Run analysis using run_analysis.sh script.
 
-The contents of these repo are custom-tailored to our setup in R 3.5.2 environment and workflow 
-(i.e. I make no promises that they may work for you), but I made them publicly available.
+The contents of these repo are custom-tailored to our setup in R 3.5.2 environment and workflow.
